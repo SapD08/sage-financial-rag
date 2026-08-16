@@ -1,0 +1,2134 @@
+[
+  {
+    "query_id": "LSE_HWDN_2023_95.png-3",
+    "query": "According to Howden Joinery Group Plc's Annual Reports & Accounts 2023, which is higher between the cash at bank and in hand at 24 December 2022 and 30 December 2023?",
+    "answer": "24 December 2022.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "LSE_HWDN_2023_95.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_58.png-3",
+    "query": "According to Howden Joinery Group Plc's Annual Reports & Accounts 2020, which year has the highest annual bonus from 2011 to 2020?",
+    "answer": "2019.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "LSE_HWDN_2020_58.png"
+    ]
+  },
+  {
+    "query_id": "0001471265-24-000009_94.png-2",
+    "query": "According to the consolidated financial statements of Northwest Bancshares, Inc. and subsidiaries, how does the total allowance for credit losses as of December 31, 2021, compare to December 31, 2020?",
+    "answer": "December 31, 2020 is higher.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "0001471265-24-000009_94.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2022_82.png-4",
+    "query": "According to the SRCE 2022 Form 10-K, which year had a lower net premises and equipment value: December 31, 2022, or December 31, 2021?",
+    "answer": "2022.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2022_82.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_57.png-3",
+    "query": "According to the SRCE 2022 Form 10-K, regarding the consolidated statements of income, which year had the highest total noninterest expense from 2021 to 2023?",
+    "answer": "2022.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_57.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_129.png-2",
+    "query": "In the AMBAC Financial Group's Notes to Consolidated Financial Statements, which year had higher gross unrealized gains for corporate obligations, 2019 or 2020?",
+    "answer": "2019.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_129.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_71.png-5",
+    "query": "According to the 'Notes to the Financial Statements' for Craneware plc, which period had the largest contribution to lease liabilities as of June 30, 2020?",
+    "answer": "Between 2 and 5 years",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2020_71.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_134.png-4",
+    "query": "According to the annual report 2022 of Craneware plc, which year had lower undrawn borrowing facilities between 2021 and 2022?",
+    "answer": "2022.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2022_134.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_128.png-1",
+    "query": "According to the financial statements in the 2023 annual report of Craneware plc, which year had the higher total finance expense, 2023 or 2022?",
+    "answer": "2023.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2023_128.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2021_82.png-4",
+    "query": "According to the SRCE 2021 Form 10-K, which year had the higher net carrying amount of other intangible assets: 2020 or 2021?",
+    "answer": "2020.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2021_82.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_105.png-1",
+    "query": "According to Howden Joinery Group Plc's Annual Reports & Accounts 2022, in the Company statement of changes in equity, which year had the higher total equity balance at the end of December: 2020, 2021, or 2022?",
+    "answer": "2020.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "LSE_HWDN_2022_105.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_74.png-1",
+    "query": "According to the staff costs data in the 2022 annual report of Craneware plc, which year had the higher total direct costs of employment for the Group: 2020 or 2019?",
+    "answer": "2020.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2020_74.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_101.png-5",
+    "query": "According to Howden Joinery Group Plc's Annual Report & Accounts 2022, regarding the statement of comprehensive income, which year had the higher net actuarial (loss)/gain before the associated deferred tax: the 52 weeks to the end of December 2022 or 2021?",
+    "answer": "2022.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "LSE_HWDN_2022_101.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2023_61.png-3",
+    "query": "According to the historical single figure table from the Howden Joinery Group Plc Annual Report & Accounts 2023, which year had the lowest annual bonus?",
+    "answer": "2020.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "LSE_HWDN_2023_61.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_96.png-1",
+    "query": "In the AMBAC Financial Group's Notes to Consolidated Financial Statements, which year had a higher estimated fair value of municipal obligations as of December 31, 2021, compared to December 31, 2020?",
+    "answer": "2020",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_96.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_87.png-4",
+    "query": "In Howden Joinery Group Plc's Annual Report & Accounts 2022, analyze the 'Carrying amount of assets' section and compare the carrying amounts between the 'UK' and 'France, Belgium and Ireland' for the 26 weeks to 24 December 2022. Which location holds a higher amount and by how much?",
+    "answer": "UK.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "LSE_HWDN_2022_87.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_138.png-2",
+    "query": "According to the deferred tax assets data in the 2023 annual report and financial statements of Craneware Plc, which period had the higher total of short-term timing differences change: 30 June 2022 or 30 June 2023?",
+    "answer": "30 June 2023.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2023_138.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2021_77.png-2",
+    "query": "According to the SRCE 2021 Form 10-K, comparing the reported total financing receivables for the Commercial and Agricultural sectors between December 31, 2021, and December 31, 2020, which period had the larger value?",
+    "answer": "2020.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2021_77.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_157.png-5",
+    "query": "According to Ambac Financial Group, Inc.'s 2020 Form 10-K, when comparing the filing dates and exhibit numbers of the 2018 Indenture agreements, which filing had the largest exhibit number?",
+    "answer": "4.17.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_157.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2022_108.png-3",
+    "query": "According to the SRCE 2022 Form 10-K, what is the common signing date for all the directors in the document?",
+    "answer": "All directors signed the document on February 16, 2023.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2022_108.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_67.png-2",
+    "query": "Based on the Ambac Financial Group, Inc. 2023 Form 10-K document regarding Equity Sensitivity, which year had a higher fair value for investments in pooled funds: 2022 or 2023?",
+    "answer": "2022.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_67.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_86.png-3",
+    "query": "According to the 2020 annual report of Craneware plc, which is larger: total deferred tax assets or total deferred tax liabilities for the Group?",
+    "answer": "deferred tax assets.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2020_86.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_113.png-3",
+    "query": "According to the 2022 annual report of Craneware plc, which plan had the larger exercise price range: the 2016 Schedule 4 Option Plan or the 2018 SAYE Option Plan?",
+    "answer": "2016 Schedule 4 Option Plan.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2022_113.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_23.png-2",
+    "query": "Based on the 2023 Form 10-K document of Ambac Financial Group, Inc, which year had the larger carrying values for municipal obligations, 2023 or 2022?",
+    "answer": "2023.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_23.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_67.png-3",
+    "query": "In the 2020 Form 10-K document of Ambac Financial Group, Inc., regarding the breakdown of gross par outstanding as of December 31, 2020, which category had the largest increase in gross par outstanding compared to December 31, 2019?",
+    "answer": "Ambac UK and Other Credits.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_67.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_160.png-2",
+    "query": "In the investment summary for Ambac Financial Group, Inc. as of December 31, 2020, which category under 'Type of Investment' shows the largest difference between the 'Estimated Fair Value' and the 'Cost'?",
+    "answer": "Residential mortgage-backed securities.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_160.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_70.png-1",
+    "query": "According to the 2020 Form 10-K document of Ambac Financial Group, Inc., which is larger: the total long-term debt for Ambac as of December 31, 2020, or as of December 31, 2019?",
+    "answer": "2019.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_70.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_73.png-3",
+    "query": "According to SRCE 2023 Form 10-K, which year had the second largest total amount for 'Auto and light truck' loans from 2019 to 2023?",
+    "answer": "2022.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_73.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2021_27.png-5",
+    "query": "Compare the focus areas of Howden Joinery Group's compliance under 'Social' and 'Governance' ESG pillars for 2021.",
+    "answer": "Under 'Social', the focus is on achieving ISO 45001 certification for safety and wellbeing, while in 'Governance', the focus is on implementing TCFD and ISS for effective ESG reporting. Both involve ensuring regulatory compliance and improving reporting transparency.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "LSE_HWDN_2021_27.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_155.png-2",
+    "query": "In Ambac Financial Group, Inc. 2021 FORM 10-K, how does the actual amount shown on the balance sheet for U.S. government obligations compare with the estimated fair value of these obligations as per the 'Schedule I - Summary of Investments' for AMBAC Financial Group?",
+    "answer": "The amount shown on the balance sheet for U.S. government obligations is the same as the estimated fair value, both valued at $60 million.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_155.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_96.png-2",
+    "query": "According to Craneware plc's Annual report 2022, how has the operating profit changed from the year ended 30 June 2021 to the year ended 30 June 2022 in the Consolidated Statement of Comprehensive Income?",
+    "answer": "The operating profit increased from $13,240,000 in 2021 to $18,132,000 in 2022, indicating a growth in profitability.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2022_96.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2021_39.png-2",
+    "query": "From the SRCE 2021 Form 10-K, compare the volume and rate changes impacting the interest earned on 'Loans and leases, net of unearned discount' between 2021 and 2020.",
+    "answer": "In 2021 compared to 2020, the interest earned on 'Loans and leases, net of unearned discount' showed a increase due to volume by $1,133 thousand and a significant decrease due to rate by $6,470 thousand.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2021_39.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2022_76.png-5",
+    "query": "How does the total amount for Commercial Real Estate Loans Grades 1-6 in 2022 compare to the total amount in 2018, based on the SRCE 2022 Form 10-K data?",
+    "answer": "The total amount for Commercial Real Estate Loans Grades 1-6 in 2022 is $271,526 thousand, which is higher compared to $102,271 thousand in 2018.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2022_76.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2021_91.png-3",
+    "query": "According to Craneware plc's 2021 financial report, which year had a larger value in 'trade receivables' for the Group category: 2021 or 2020?",
+    "answer": "2021.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2021_91.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_34.png-2",
+    "query": "In SRCE 2023 Form 10-K, identify the total average balance for 'Noninterest-bearing deposits' for the year 2023. How does it compare to the previous years?",
+    "answer": "In 2023, the total average balance for 'Noninterest-bearing deposits' is $1,753,149. This represents a decrease from $2,037,882 in 2022 and a further decrease from $1,882,168 in 2021.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_34.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_77.png-2",
+    "query": "According to Ambac Financial Group, Inc. 2021 FORM 10-K, compare the total balance between the fiscal years 2019 and 2020.",
+    "answer": "In 2019, the total balance was $1,536 million, while in 2020 it was $1,140 million. This shows a decline of $396 million.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_77.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_138.png-1",
+    "query": "Based on the content of 'Notes to the Financial Statements', what is the adjusted EBITDA for Crane plc for the year 2022, and how does it compare to 2021?",
+    "answer": "The adjusted EBITDA for Crane plc for the year 2022 is $51,757,000, and for 2021 it is $27,111,000. There is an increase of $24,646,000 in 2022 compared to 2021.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2022_138.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_74.png-3",
+    "query": "According to AMBAC Financial Group's Consolidated Statements of Stockholders' Equity, which period had the largest balance of Nonredeemable Noncontrolling Interest at the end of 2021, 2022, or 2023?",
+    "answer": "2021.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_74.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_84.png-3",
+    "query": "According to Howden Joinery Group's Annual Report and Accounts 2020, which year had the largest provisions for property between 2018 and 2020?",
+    "answer": "2020.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "LSE_HWDN_2020_84.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_128.png-2",
+    "query": "According to Craneware plc's 2021 annual report, which year had the larger expected credit loss rate for current trade receivables: 30 June 2022 or 30 June 2021?",
+    "answer": "30 June 2022.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2022_128.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_99.png-2",
+    "query": "According to Craneware plc's 2022 annual report, compare the total equity between the years 2022 and 2021 in the Company Balance Sheet as of 30 June 2022.",
+    "answer": "In 2022, the total equity was $313,994,000, whereas in 2021, it was $239,129,000. This indicates an increase in total equity in 2022 compared to 2021.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2022_99.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2021_44.png-2",
+    "query": "According to SRCE 2021 Form 10-K, regarding the contractual maturities of loans and leases, how does the 0-1 year maturity category's fixed rate value for 'Commercial and Agricultural' compare to that of 'Medium and Heavy Duty Truck'?",
+    "answer": "The 0-1 year maturity fixed rate for 'Commercial and Agricultural' is $180,827 thousand, which is significantly higher compared to $90,089 thousand for 'Medium and Heavy Duty Truck'.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2021_44.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_97.png-3",
+    "query": "According to the SRCE 2023 Form 10-K, from the Statements of Financial Condition, how do the total liabilities and shareholders' equity for 2022 compare to those for 2023?",
+    "answer": "The total liabilities and shareholders' equity in 2023 are $1,092,794 thousand, which is larger than the $968,850 thousand in 2022.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_97.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_123.png-1",
+    "query": "In Ambac Financial Group, Inc. 2023 Form 10-K, according to the summary of RSU activity for 2023, compare the outstanding shares at the beginning and end of the period. Which time had the larger value?",
+    "answer": "At the end of 2023 had the larger value, because the outstanding shares at the beginning of the period were 923,250, and at the end of the period were 1,036,339.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_123.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_95.png-3",
+    "query": "From the SRCE 2023 Form 10-K document, considering the unobservable inputs for mortgage servicing rights, what is the range of constant prepayment rate (CPR) used for December 31, 2023, and how does it compare to the previous year?",
+    "answer": "The range of the constant prepayment rate (CPR) for mortgage servicing rights on December 31, 2023, was 6.1% - 17.6%, which shows a broader range compared to the previous year's range of 7.6% - 9.6%.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_95.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_58.png-1",
+    "query": "According to Ambac Financial Group, Inc. 2021 Form 10-K, in the Consolidated Cash Flow Statement discussion, what was the net cash flow provided by or used in investing activities for the years 2019, 2020, and 2021? Which year had the largest value?",
+    "answer": "The net cash flow provided by or used in investing activities was $1,000 million in 2019, $432 million in 2020, and $76 million in 2021. 2019 had the largest value.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_58.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_91.png-3",
+    "query": "According to the annual report and financial statements 2023 of Craneware plc, what is the Adjusted Diluted EPS for performance condition metric in FY23, and how does it compare to FY20?",
+    "answer": "The Adjusted Diluted EPS for FY23 is 92.8 cents, which is higher than the 68.1 cents in FY20.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2023_91.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_102.png-2",
+    "query": "According to Ambac Financial Group, Inc. 2021 Form 10-K, how does the carrying amount of corporate obligations compare to municipal obligations in the 2021 financial assets section?",
+    "answer": "The carrying amount of corporate obligations is $613 million, which is higher than municipal obligations at $340 million.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_102.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_98.png-5",
+    "query": "In the SRCE 2023 Form 10-K document, Statement of Cash Flows section, how does the net change in cash and cash equivalents compare between 2023 and 2022?",
+    "answer": "The net change in cash and cash equivalents decreased from $10,135 in 2022 to $1,211 in 2023, indicating a reduction of \uffe58,924.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_98.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_76.png-1",
+    "query": "In the 2020 Annual Report by Howden Joinery Group Plc, what is the total carrying amount of non-current assets excluding deferred tax assets on 26 December 2020, and how does it compare to 28 December 2019?",
+    "answer": "On 26 December 2020, the total carrying amount of non-current assets, excluding deferred tax assets, was \u00a3817.9 million, which is larger than the \u00a3238.2 million on 28 December 2019.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "LSE_HWDN_2020_76.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_144.png-3",
+    "query": "In the 'Related party transactions' of the Craneware plc Annual Report and Financial Statements 2023, compare the share-based payments for Executive Directors and Other key management for 2023. Which category received higher payments?",
+    "answer": "For the year 2023, Executive Directors received $929,609 in share-based payments, while Other key management received $824,662. Executive Directors received higher payments.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2023_144.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_105.png-2",
+    "query": "According to the annual report and accounts 2022 of Howden Joinery Group Plc, regarding the Company statement of changes in equity, which period had the larger adjusted balance: 26 December 2020 or 25 December 2021?",
+    "answer": "26 December 2020.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "LSE_HWDN_2022_105.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2021_77.png-4",
+    "query": "According to the SRCE 2021 Form 10-K, for the year 2019, what was the loan category with the highest recorded interest income and its corresponding amount?",
+    "answer": "The highest recorded interest income for the year 2019 was in the 'Commercial and agricultural' category, amounting to $242 thousand.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2021_77.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_103.png-6",
+    "query": "According to Ambac Financial Group, Inc. 2021 Form 10-K, as to December 31, 2020, which item listed under Financial Assets had the third-highest carrying amount among financial assets?",
+    "answer": "Corporate obligations.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_103.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_57.png-1",
+    "query": "In the annual report 2022 of Craneware plc, who are the top three shareholders of the Company in terms of the number of Ordinary \u00a30.01 Shares, as noted in the Directors' Report dated September 2022?",
+    "answer": "The top three shareholders in terms of the number of Ordinary \u00a30.01 Shares are Liontrust Asset Management with 4,605,912 shares, K Neilson with 3,431,522 shares, and Canaccord Genuity Group with 2,563,567 shares.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2022_57.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_132.png-3",
+    "query": "According to Ambac Financial Groups, Inc. 2020 Form 10-K, in the Class of Funds section for pooled investments at the end of 2020, which investment class had the highest fair value?",
+    "answer": "The 'Hedge funds' class had the highest fair value at $196 million.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_132.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_99.png-3",
+    "query": "In the annual report 2022 of Craneware plc, which current assets increased the most in value from 2021 to 2022 in the Company Balance Sheet as of 30 June 2022?",
+    "answer": "Trade and other receivables increased the most, from $28,170,000 in 2021 to $222,516,000 in 2022.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "AIM_CRW_2022_99.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_98.png-6",
+    "query": "In the SRCE 2023 Form 10-K document, Statement of Cash Flows section, which year had the largest value in cash dividends paid on common stock over the three years presented?",
+    "answer": "2023 had the largest value of $33,074.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_98.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_91.png-5",
+    "query": "Based on supplemental disclosure of cash flow information in the AMBAC Financial Group, Inc. and subsidiaries, which year had the largest restricted cash amount from 2021 to 2023?",
+    "answer": "2022 with $14 million.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_91.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_68.png-4",
+    "query": "According to AMBAC Financial Group, Inc. 2020 Form 10-K, what financial entity faces the most substantial gross loss reserves in 2019?",
+    "answer": "Lease and tax-backed with $681 million.",
+    "category": "Table-Compare and Sort",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_68.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2023_25.png-3",
+    "query": "According to the Annual Report and Account for Howden Joinery Group Plc in 2023, what is the total baseline emissions estimation for 2021? How many percentage does the purchased goods and services take among them?",
+    "answer": "The total 2021 baseline emissions are estimated at 1.2m TCO\u2082e. Among them, purchased goods and services takes 40%.",
+    "category": "Chart-Information Extraction",
+    "gold_pages": [
+      "LSE_HWDN_2023_25.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_56.png-3",
+    "query": "According to Howdens' 2022 annual report, from the statistics about Company and Executive Committee tenure, who has the longest company tenure?",
+    "answer": "Andy Witts",
+    "category": "Chart-Information Extraction",
+    "gold_pages": [
+      "LSE_HWDN_2022_56.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_16.png-3",
+    "query": "According to Ambac Financial Group, Inc's annual report, based on the statistics of reinsurance carriers' AM Best rating, what percentage of the ceded premium for the year ended December 31, 2023, was attributed to reinsurance carriers rated A++?",
+    "answer": "53%",
+    "category": "Chart-Information Extraction",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_16.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AAON_2021_10.png-3",
+    "query": "According to AAON's backlog, what was the backlog amount in the year 2018?",
+    "answer": "$152 million",
+    "category": "Chart-Information Extraction",
+    "gold_pages": [
+      "NASDAQ_AAON_2021_10.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_34.png-3",
+    "query": "According to Craneware plc's Annual Report and Financial Statements 2023, what critical initiatives are included in the 'People' focus area as per the ESG Framework ?",
+    "answer": "In the 'People' focus area, the ESG Framework includes Diversity, Equity & Inclusion, Engagement, Learning Culture, and Wellbeing.",
+    "category": "Chart-Information Extraction",
+    "gold_pages": [
+      "AIM_CRW_2023_34.png"
+    ]
+  },
+  {
+    "query_id": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_77.png-3",
+    "query": "Accoding to the statistics of Compensation Actually Paid and GAAP Revenue Growth from 2020 to 2023, what is the GAAP revenue growth in 2022?",
+    "answer": "$37.5 million",
+    "category": "Chart-Information Extraction",
+    "gold_pages": [
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_77.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_37.png-4",
+    "query": "According to the Howden Joinery Group Plc Annual Report & Accounts 2020, in the Board and Executive Committee structure, who are the Executive Directors listed?",
+    "answer": "Andrew Livingston (Chief Executive Officer) and Paul Hayes (Chief Financial Officer).",
+    "category": "Chart-Information Extraction",
+    "gold_pages": [
+      "LSE_HWDN_2020_37.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_18.png-3",
+    "query": "According to Howden Joinery Group Plc / Annual Report & Accounts 2022, what is the Closing net cash value for 2022?",
+    "answer": "\u00a3308m.",
+    "category": "Chart-Information Extraction",
+    "gold_pages": [
+      "LSE_HWDN_2022_18.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2021_52.png-3",
+    "query": "According to Howden Joinery Group Plc Annual Report & Accounts 2021, based on the Non-Executive tenure statistics as of 25 December 2021, who has been serving the longest?",
+    "answer": "Richard Pennycook",
+    "category": "Chart-Information Extraction",
+    "gold_pages": [
+      "LSE_HWDN_2021_52.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_50.png-4",
+    "query": "According to Howden Joinery Group Plc Annual Report & Accounts 2020, by what percentage did the number of female senior management increase at Howden Joinery Group Plc from 2019 to 2020?",
+    "answer": "100%",
+    "category": "Chart-Information Extraction",
+    "gold_pages": [
+      "LSE_HWDN_2020_50.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_53.png-4",
+    "query": "In terms of gender diversity, how does Howdens' board compare to the FTSE 250 average according to the Nominations Committee report?",
+    "answer": "Howdens' board has a female representation of 37.5%, which is slightly lower than the FTSE 250 average of 40.1%.",
+    "category": "Chart-Information Extraction",
+    "gold_pages": [
+      "LSE_HWDN_2022_53.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2023_95.png-5",
+    "query": "According to Howden Joinery Group Plc Annual Report & Accounts 2023, about changes in liabilities arising from financing activities, what is the the difference in between the opening balance for the 53 weeks to 30 December 2023 compared to the 52 weeks to 24 December 2022?",
+    "answer": "74.1 \u00a3m.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "LSE_HWDN_2023_95.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_58.png-2",
+    "query": "According to Howdens' Remuneration Committee report, what was the average CEO single figure for the years 2015 to 2019?",
+    "answer": "The average CEO single figure for the years 2015 to 2019 is \u00a32,710.2k.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "LSE_HWDN_2020_58.png"
+    ]
+  },
+  {
+    "query_id": "0001471265-24-000009_94.png-1",
+    "query": "In the Notes to Consolidated Financial Statements for Northwest Bancshares, what was difference between the total Personal Banking for Allowance for Credit Losses of the balance as of December 31, 2021, compared to  December 31, 2020?",
+    "answer": "$86 thousands",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "0001471265-24-000009_94.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_129.png-1",
+    "query": "In the AMBAC Financial Group's Notes to Consolidated Financial Statements for December 31, 2020, what is the total estimated fair value of municipal obligations and corporate obligations combined?",
+    "answer": "$1,435 million",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_129.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_128.png-3",
+    "query": "What was the percentage increase in the corporation tax on profits of the year from 2022 to 2023, according to Craneware's financial statement?",
+    "answer": "101.7% increase.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "AIM_CRW_2023_128.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_TSBK_2020_135.png-1",
+    "query": "In the 'Notes to Consolidated Financial Statements' document of Timberland Bancorp, Inc. for September 30, 2020 and 2019, what is the difference in provision for loan losses between September 30, 2020 and December 31, 2019 (dollars in thousand)?",
+    "answer": "$300 thousand.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_TSBK_2020_135.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_TSBK_2020_104.png-1",
+    "query": "Considering the Notes to the Consolidated Financial Statements of Timberland Bancorp, Inc., what is the difference between the total amounts of 'Total mortgage loans' reported for the years ending September 30, 2020, and September 30, 2019?",
+    "answer": "20,164 dollors in thousands.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_TSBK_2020_104.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_46.png-3",
+    "query": "From the information provided in Craneware's Annual Report 2022, what was the change in UK energy use in kWh from 2021 to 2022?",
+    "answer": "A decrease of 5,541 kWh.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "AIM_CRW_2022_46.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_87.png-3",
+    "query": "According to Howdens' Annual Report and Accounts 2022, regarding the 'Revenues from external customers' under Segmental Reporting, what is the difference in revenue between the UK and France, Belgium, and Ireland for the 52 weeks ending 24 December 2022?",
+    "answer": "\u00a3m2,193.2.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "LSE_HWDN_2022_87.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_67.png-1",
+    "query": "In the Ambac Financial Group, Inc. 2023 Form 10-K document, regarding Foreign Currency Risk, what is the change in the fair value of investments denominated in currencies other than the U.S. dollar between 2023 and 2022?",
+    "answer": "$65.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_67.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_67.png-3",
+    "query": "According to the Ambac Financial Group, Inc. 2023 Form 10-K document, how does the pre-tax impact of a 10% decline in the NAV of the funds in 2023 compare to 2022?",
+    "answer": "$10 decrease.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_67.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_100.png-2",
+    "query": "In the Howden Joinery Group Plc document, what is the percentage difference in shares between individual holders in the 0 to 10,000 range and those holding over 250,000 shares?",
+    "answer": "0.85%.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "LSE_HWDN_2020_100.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_23.png-3",
+    "query": "According to the consolidated investment data of Ambac Financial Group, Inc. in the 2023 Form 10-K document, how did the total carrying value of investments in asset-backed securities change from 2022 to 2023? Provide the specific amount in monetary value and determine whether increase or decrease.",
+    "answer": "A $81 increase.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_23.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_160.png-1",
+    "query": "For the Schedule I summary of investments by Ambac Financial Group, Inc. and Subsidiaries on December 31, 2020, what is the total cost of investments in municipal obligations and corporate obligations combined?",
+    "answer": "$913 million.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_160.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_55.png-3",
+    "query": "In the 2021 Form 10-K document of Ambac Financial Group, what is the average loss in millions of the total 'Losses and Loss Expenses (Benefit)' incurred for the years ended December 31 in 2019, 2020, and 2021?",
+    "answer": "$50 million.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_55.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2022_76.png-1",
+    "query": "According to the SRCE 2022 Form 10-K document, regarding the amortized cost of loans and leases, what is the average total amount of loans and leases for Solar Grade 1-6 from 2018 to 2022?",
+    "answer": "$69,899.8 thousand.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_SRCE_2022_76.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_TSBK_2020_116.png-3",
+    "query": "According to the data on TDRs (Troubled Debt Restructures) provided by Timberland Bancorp, what was the difference in the total amount of TDRs for mortgage and consumer loans as of September 30, 2020?",
+    "answer": "$2,665 thousand.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_TSBK_2020_116.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_TSBK_2020_128.png-3",
+    "query": "What is the difference in total assets for Timberland Bancorp's parent company as reported in the condensed balance sheet for the years ended September 30, 2020, and 2019?",
+    "answer": "A $16,292 increase.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_TSBK_2020_128.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2021_91.png-1",
+    "query": "In the 2021 financial statements for Craneware plc, what is the difference in the expected credit loss rate for trade receivables as the aging category increases from '<30 days' to '>90 days'?",
+    "answer": "A 52.8% increase.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "AIM_CRW_2021_91.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_123.png-2",
+    "query": "According to the Notes to the Consolidated Financial Statements of AMBAC FINANCIAL GROUP, INC. AND SUBSIDIARIES, what is the difference in the accumulated amortization of finite-lived insurance intangible assets between 2020 and 2021?",
+    "answer": "A $50 million increase.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_123.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_104.png-3",
+    "query": "According to the data regarding Ambac's other asset-backed securities, what is the difference in the average life of the securities as of December 31, 2021, compared to December 31, 2020?",
+    "answer": "A decrease of 0.42 years.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_104.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_97.png-4",
+    "query": "What is the net income for Ist Source Corporation in 2023, and how does it compare to 2022?",
+    "answer": "An increase of $4,402 thousand.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_97.png"
+    ]
+  },
+  {
+    "query_id": "0001471265-24-000009_88.png-1",
+    "query": "In the Northwest Bancshares, Inc. document, what is the total amortized cost and total fair value of the marketable securities held-to-maturity as of December 31, 2023?",
+    "answer": "$1,514,345.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "0001471265-24-000009_88.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_76.png-2",
+    "query": "Considering the operating profit details in the 2020 Annual Report by Howden Joinery Group Plc, what was the difference in staff costs between the 52 weeks ending on 26 December 2020 and 28 December 2019?",
+    "answer": "An increase of \u00a321 million.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "LSE_HWDN_2020_76.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_84.png-1",
+    "query": "In the Consolidated Statements of Cash Flows for Ambac Financial Group, Inc., what is the average net cash used in operating activities for the years ended December 31, 2018, 2019, and 2020?",
+    "answer": "$676.33 million",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_84.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_144.png-2",
+    "query": "Based on the data under the 'Related party transactions' in the Craneware plc Annual Report and Financial Statements 2023, what is the percent increase in Salaries and short-term employee benefits for Executive Directors from 2022 to 2023?",
+    "answer": "An increase of approximately 84.94%.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "AIM_CRW_2023_144.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_134.png-2",
+    "query": "Based on the data of development costs and computer software from Craneware plc's Annual Report and Financial Statements 2023, what is the difference in accumulated amortisation for development costs between 1 July 2022 and 30 June 2023?",
+    "answer": "An increase of $5,724 thousand.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "AIM_CRW_2023_134.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_64.png-3",
+    "query": "From the data summarizing Ambac's investment portfolio in the 2020 Form 10-K, what was the difference in value of the fixed maturity securities between 2019 and 2020?",
+    "answer": "A decreased of $260 million.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_64.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_37.png-3",
+    "query": "What is the total cost of shares repurchased by Ambac in 2023, and how does this compare to 2022?",
+    "answer": "A decrease of $9.7 million.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_37.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2021_81.png-1",
+    "query": "According to 'Howden Joinery Group Plc Annual Report & Accounts 2021', regarding the consolidated financial statements, what is the difference between the carrying amount of assets for the UK and Continental Europe as of 25 December 2021?",
+    "answer": "\u00a31,932.4m.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "LSE_HWDN_2021_81.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AAON_2021_63.png-3",
+    "query": "From the AAON, Inc. and Subsidiaries Consolidated Statements of Cash Flows, calculate the average annual change in net cash used in investing activities between 2019 and 2021.",
+    "answer": "Approximately $60,836.5 thousand.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AAON_2021_63.png"
+    ]
+  },
+  {
+    "query_id": "0001471265-24-000009_71.png-1",
+    "query": "What are the average total assets of Northwest Bancshares, Inc. and Subsidiaries as of December 31, 2023, and 2022, according to the Consolidated Statements of Financial Condition?",
+    "answer": "$14,266,215 thousand",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "0001471265-24-000009_71.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_143.png-1",
+    "query": "In the Notes to Consolidated Financial Statements of AMBAC FINANCIAL GROUP, INC., what is the average lease payment amount scheduled to be received from 2021 to 2025?",
+    "answer": "$1 million.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_143.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_107.png-1",
+    "query": "According to Howden Joinery Group Plc's Annual Report & Accounts 2022, how much had the total cash outflow for leases decrease from 52 weeks to 24 December 2021 to 52 weeks to 25 December 2022?",
+    "answer": "\u00a32.6",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "LSE_HWDN_2022_107.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_68.png-3",
+    "query": "What are the total gross par outstanding for the issuer types 'General obligation' and 'Housing' for 2020 as calculated by Ambac Financial Group, Inc.?",
+    "answer": "$1,042 million",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_68.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_68.png-5",
+    "query": "According to Ambac Financial Group, Inc.'s report in 2020, what is the percentage increase in gross par outstanding of all issuer types from 2019 to 2020?",
+    "answer": "25.77%",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_68.png"
+    ]
+  },
+  {
+    "query_id": "0001471265-24-000009_120.png-6",
+    "query": "Considering the stock options data of Northwest Bancshares, Inc. and subsidiaries, how much did the balance at beginning of year decreased from 2021 to 2023?",
+    "answer": "$1,585,592",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "0001471265-24-000009_120.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2021_87.png-1",
+    "query": "What are the differences in the total net amount charged to profit before tax between the 52 weeks to 25 December 2021 and 26 December 2020 according to Howden Joinery Group Plc Annual Report in 2021?",
+    "answer": "\u00a33.5 million.",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "LSE_HWDN_2021_87.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_78.png-4",
+    "query": "In the Craneware plc's annual report of 2020, what is the numerical change in corporation tax on profits of the year from 2019 to 2020?",
+    "answer": "$241 thousand",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "AIM_CRW_2020_78.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2021_101.png-3",
+    "query": "According to Howden Joinery Group Plc Annual Report & Accounts 2021, calculate the balance at the end of the period in the number of ordinary shares of 10p each from 52 weeks to 25 December 2020 to 52 weeks to 25 December 2021.",
+    "answer": "decreased by 5,290,034",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "LSE_HWDN_2021_101.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_70.png-3",
+    "query": "In the Ambac Financial Group's report in 2021, what was the change in the fair value of investments in pooled funds from December 31, 2020, to December 31, 2021?",
+    "answer": "increased by $139",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_70.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_61.png-3",
+    "query": "According to Craneware plc's Annual Report in 2020, for the equity changes, how much had the impact of share options and awards exercised/lapsed on the total equity increased from 1 July 2018 to 30 June 2029 for the company?",
+    "answer": "$282,000",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "AIM_CRW_2020_61.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_127.png-5",
+    "query": "According to the financial statements of AMBAC Financial Group, Inc. and Subsidiaries, how much has the Par value of long-term debt decreased from 2020 to 2021?",
+    "answer": "$550 million",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_127.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AAON_2021_60.png-1",
+    "query": "According to the data of AAON, Inc. and Subsidiaries, what is its difference in total assets between 2021 and 2020?",
+    "answer": "$201,172 thousand",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AAON_2021_60.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_137.png-3",
+    "query": "From the Ambac Financial Group's 2023 Summary of Investments, what is the total amount shown on the balance sheet for corporate obligations and commercial mortgage-backed securities combined?",
+    "answer": "$764 million",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_137.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_109.png-3",
+    "query": "According to Craneware plc's Company Statement of Cash Flows in 2023, what was the percentage increase in cash and cash equivalents at the end of the year from 2022 to 2023?",
+    "answer": "-11.61%",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "AIM_CRW_2023_109.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_117.png-2",
+    "query": "According to Craneware plc's annual report in 2023, calculate the total revenue growth from 2022 to 2023 according to the revenue breakdown in the financial statement and provide the specific amount in monetary value.",
+    "answer": "$8,474,000",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "AIM_CRW_2023_117.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_105.png-1",
+    "query": "According to AMBAC Financial Group, Inc. and Subsidiaries's Financial Statements, how much did the total global structured finance maximum exposure to loss change from December 31, 2019, to December 31, 2020?",
+    "answer": "decreased $1813 millions",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_105.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_106.png-3",
+    "query": "In the Consolidated Balance Sheet of Craneware plc as of 30 June 2023, how much did deferred tax in non-current liabilities change compared to 2022?",
+    "answer": "decreased by $3,080",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "AIM_CRW_2023_106.png"
+    ]
+  },
+  {
+    "query_id": "0001471265-24-000009_119.png-1",
+    "query": "According to Northwest Bancshares, Inc. and Subsidiaries's financial statements, according to the funded status of post-retirement healthcare benefit plan, what is the total change in funded status at year-end for 2023 compared to the previous year?",
+    "answer": "$135",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "0001471265-24-000009_119.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_35.png-1",
+    "query": "According to SRCE's report in 2023, how much did the net interest income (GAAP) increased from 2021 to 2023 based on the net interest margin data?",
+    "answer": "$162,135 thousands",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_35.png"
+    ]
+  },
+  {
+    "query_id": "0001471265-24-000009_117.png-4",
+    "query": "According to Northwest Bancshares, Inc. and Subsidiaries's financial statement, calculate the change in the accumulated benefit obligation of the funded benefit pension plan from 2022 to 2023.",
+    "answer": "$437 million",
+    "category": "Table-Numerical Calculation",
+    "gold_pages": [
+      "0001471265-24-000009_117.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_53.png-1",
+    "query": "In Howden Joinery Group Plc's Annual Report & Accounts 2022, with respect to the Nominations Committee report for 2022, who is mentioned as the individual appointed to lead the Committee and who retired?",
+    "answer": "Peter Ventress was appointed as the Committee Chairman, and Richard Pennycook retired.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2022_53.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_30.png-1",
+    "query": "In Howden Joinery Group Plc's Annual Report & Accounts 2022, describe the company's approach in 2022 to testing their climate impact scenarios and the outcomes of those tests.",
+    "answer": "In 2022, the company tested the draft scenarios' results, discussed them with management, ExCo, and the Board, and started the process of building metrics from the scenarios (with a focus on carbon price). No significant short or medium-term climate-related risks were found.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2022_30.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_90.png-1",
+    "query": "From the document 'Independent auditors' report to the members of Craneware plc', what is the significance of revenue recognition as a key audit matter in the context of the Group's financial statement?",
+    "answer": "Revenue recognition is significant because it involves determining the amount of revenue to be recognized based on contract details and conditions in contracts with customers. The risk is identified at the journal level related to the existence and occurrence of all revenue streams.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2022_90.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_6.png-1",
+    "query": "Regarding the Chairman's Statement in the Craneware plc Annual Report 2020, what were the primary challenges the company faced due to the COVID-19 pandemic, and how did the company adapt its operations during this period?",
+    "answer": "The primary challenges faced by the company due to the COVID-19 pandemic included a significant increase in demand for emergency services and disruptions to their operations. The company adapted by implementing a business continuity plan, transitioning employees to remote working, and repurposing operations to maximize capacity to deal with the increased demand.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2020_6.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_89.png-1",
+    "query": "What key components are included in Ambac's 2020 Incetive Compensation Plan?",
+    "answer": "The 2020 Incentive Compensation Plan includes short term incentive compensation (consisting of an annual cash bonus) and long term incentive plan awards (consisting of deferred cash awards and restricted and performance stock units).",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_89.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_89.png-3",
+    "query": "According to Ambac Financial Group, inc 2023 Form 10-K, what are the implications of Ambac's role as a lessee within operating lease contracts?",
+    "answer": "Ambac recognizes a single lease cost on a straight-line basis, adopts a right-of-use asset and lease liability, and does not separate lease and non-lease components.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_89.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_17.png-1",
+    "query": "According to the Strategic Report in Craneware plc's 2020 Annual Report, how does the Group plan to address the market consolidation occurring in the US healthcare sector?",
+    "answer": "The Group plans to address market consolidation in the US Healthcare sector by using its value cycle strategy and Trisus platform, combined with the ongoing investment in the product suite, positions the Group  to provide scalable solutions to healthcare providers of all sizes.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2020_17.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_17.png-6",
+    "query": "According to the Strategic Report in Craneware plc's 2020 Annual Report, in terms of dealing with new competitive entrants, what actions is the Group implementing according to the discussed document?",
+    "answer": "To address new competitive entrants, the Group is monitoring competitive landscapes, expanding product portfolios, and seeking partnerships with other healthcare IT vendors.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2020_17.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_28.png-1",
+    "query": "According to Ambac Financial Group, Inc's 2023 From 10-K, what are the potential impacts discussed in the document that political developments might have on Ambac Financial Group's business operations?",
+    "answer": "Political developments may materially affect Ambac Financial Group's business operations by changing government funding, public policy decisions, and affecting local economies, which may impair revenue or increase operational costs.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_28.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_28.png-3",
+    "query": "According to Ambac Financial Group, Inc's 2023 From 10-K, what challenges highlighted in the document could EverSpan face in executing its business plans within the specialty insurance program?",
+    "answer": "EverSpan might face challenges such as higher-than-expected insurance underwriting losses or reinsurer counterparty losses, which could impact its AM Best rating and franchise value.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_28.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_4.png-1",
+    "query": "According to Cranevare plc Annual Report and Financial Statements 2023, what is the primary purpose of Trisus Chargemaster as described in the Revenue section?",
+    "answer": "Trisus Chargemaster is designed to enhance efficiency in workflow, collaboration, and communication across clinical and financial teams.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2023_4.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_15.png-1",
+    "query": "According to Ambac Financial Group, Inc. 2021 FORM 10-K, what is the role of the Watch List and Adversely Classified Credits in managing credit risk according to the document image?",
+    "answer": "The Watch List and Adversely Classified Credits are used to track and prompt immediate action and proper internal and external resources for managing credit risk. They are regularly reviewed and tailored to remediate plans based on credit developments.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_15.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_30.png-1",
+    "query": "According to Craneware plc Annual Report and Financial Statements 2023, what are the potential opportunities identified in relation to climate-related risks?",
+    "answer": "The potential opportunities identified are hiring and retaining talent, and efficiency of resource management and renewable energy.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2023_30.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_77.png-1",
+    "query": "According to Ambac Financial Group, Inc. 2023 FORM 10-K, what are the strategic priorities for Legacy Financial Guarantee Insurance?",
+    "answer": "The strategic priorities for Legacy Financial Guarantee Insurance include actively managing, de-risking and mitigating insured portfolio risk, pursuing recoveries of previously paid losses, improving operating efficiency, and optimizing asset and liability profile, and Exploring strategic options to further maximize value for AFG.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_77.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2023_28.png-1",
+    "query": "In the Howden Joinery Group Plc Annual Report & Accounts 2023, regarding sustainable product offer and product innovation, what strategies are mentioned for cabinet guarantees and recycling?",
+    "answer": "The strategies mentioned include offering cabinets made from 100% recycled products, a 25-year guarantee for longevity and quality, and adhering to FIRA (Furniture Industry Research Association) gold award standards for product excellence.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2023_28.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_59.png-1",
+    "query": "Based on the document titled '2023 Form 10-K' by Ambac Financial Group, Inc, how does the management's belief about expected losses impact the structuring of financial reserves, especially under stressful economic conditions?",
+    "answer": "Management uses more stressful assumptions than the probability-weighted outcome to decide the possible net cash flows considered for the evaluation of their probability-weighted expected loss as of December 31, 2023. Such stress scenarios consider economic uncertainties and the possibility of losses exceeding estimated costs. This approach affects the structuring of reserves, especially under stressful economic conditions.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_59.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2021_17.png-1",
+    "query": "Based on the information in Howden Joinery Group Plc's 2021 Annual Report Key Performance Indicators, what are the key reasons for measuring the number of depot openings?",
+    "answer": "The key reasons for measuring the number of depot openings include understanding market saturation, identifying possible new sites for depots while keeping them flexible and mobile, and taking into account economic conditions to configure growth speed.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2021_17.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_18.png-1",
+    "query": "What are the primary concerns identified under 'Data & Cyber Security' in the Strategic Report of Craneware plc?",
+    "answer": "The primary concerns include the increasing risk to security of customer, commercial, and personal data due to regulatory changes, threats from cyber attacks, and the increased volume of Protected Health Information. The report mentions the significance of safeguarding against sophisticated attacks to prevent data loss and interruption of services.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2022_18.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_34.png-1",
+    "query": "In the Howden Joinery Group's 2022 highlights, what significant achievement was made for safety in terms of KPI?",
+    "answer": "Howden Joinery Group's safety KPI saw a decrease from 196 RIDDOR reportable injuries in 2021 to 140 in 2022 per 100,000 employees.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2022_34.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2021_16.png-1",
+    "query": "According to Craneware plc Annual Report 2021, what are the main components of the Group's risk management process as described in the document?",
+    "answer": "The main components include a robust assessment of principal and emerging risks, maintaining an internal risk register, and regular reviews by Executive Directors and senior management to minimize risks and ensure their effectiveness. The risk management also involves the Governance Committee and the Security Council.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2021_16.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_36.png-1",
+    "query": "In the Ambac Financial Group, Inc 2023 Form 10-K document, what specific responsibilities does the Company's Chief Information Officer (CIO) have concerning cybersecurity risk management and policy updates?",
+    "answer": "The Company's Chief Information Officer (CIO) is responsible for implementing a cybersecurity program, conducting weekly meetings to review system monitoring tools, propose updates, assess risks, attend board meetings for report disclosures, and implement risk management strategies according to federal and state regulations.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_36.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_93.png-1",
+    "query": "What components does the Independent Auditor's report include in their scope of audit for Howden Joinery Group Plc?",
+    "answer": "The scope of the audit includes Group-wide controls, components representing 95% and 98% of the Group's net assets and revenue respectively for 2019, testing of analytical procedures, and assessments of materials relating to the UK trading and corporate entities.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2020_93.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_58.png-1",
+    "query": "According to Craneware plc\u2019s Annual Report 2022, what is the Group's policy regarding the employment of disabled persons?",
+    "answer": "The Group ensures that applications from disabled persons are fully considered, with training, career development, and promotion aligned with the abilities of the applicant. They aim for identical treatment for those who are not disabled.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2022_58.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_44.png-1",
+    "query": "What valuation methods for financial instruments are mentioned in Ambac Financial Group 2021 Form 10-K?",
+    "answer": "The document mentions the use of the Fair Value Measurement Topic of the ASC, which requires financial instruments to be classified within a three-level fair value hierarchy. It involves inputs, assumptions, and review and validation procedures over quoted and modeled pricing.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_44.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2021_59.png-1",
+    "query": "What are the performance measures related to directors\u2019 remuneration policy in the Howden Joinery Group's Annual Report 2021?",
+    "answer": "The performance measures related to directors\u2019 remuneration policy include pre-exceptional profit before tax from continuing operations and cash flow from operating activities.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2021_59.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_20.png-1",
+    "query": "In the Howden Joinery Group Plc Annual Report & Accounts 2022, what are the top three principal risks mentioned?",
+    "answer": "The top three principal risks mentioned are Market conditions, Supply chain, and Maximising growth.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2022_20.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_93.png-1",
+    "query": "Based on the notes to the consolidated financial statements, what accounting policy is applied by Howden Joinery Group Plc for inventories, and how is the allowance against inventories calculated?",
+    "answer": "The accounting policy applied by Howden Joinery Group Plc for inventories is to state them at the lower of cost and net realizable value. An allowance is made against inventories, which includes an appropriate proportion for overheads based on a normal operating capacity, using a standard cost system updated to reflect average actual costs. An allowance is made for obsolete, slow-moving, or defective items where appropriate.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2022_93.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_37.png-3",
+    "query": "In Ambac Financial Group, Inc. 2020 FORM 10-K, according to the text description in the Stock Performance Graph section of the Ambac Financial Group's 2020 Form 10-K, what assumptions are made regarding the calculation of stock performance?",
+    "answer": "The text assumes that $100 was invested on December 31, 2015, in Ambac's common stock at the closing price, and similarly for the Russell 2000 and S&P Completion Indices. It also assumes that dividends, if any, were reinvested on payment dates without any commissions.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_37.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_52.png-2",
+    "query": "How does Ambac\u2019s current rated exposure in U.S. Structured Finance in 2020 compare to 2019, according to the 2020 FORM 10-K?",
+    "answer": "The exposure of Ambac's U.S. structured finance decreased by 16% in 2020 compared to December 31, 2019.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_52.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2023_14.png-1",
+    "query": "In the CEO\u2019s review from the Howden Joinery Group Plc Annual Report & Accounts 2023, what are the main expectations for Howdens in 2024?",
+    "answer": "The main expectations for Howdens in 2024 are to continue building on strong foundations with strategic initiatives like increasing market share, ensuring product availability, and maintaining competitive pricing. They plan to improve kitchen ranges, support product sales growth, and invest in new and existing depots to outperform competitors.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2023_14.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_15.png-1",
+    "query": "What is the primary role of the Governance Committee as mentioned in the Strategic Report: Principal Risks and Uncertainties?",
+    "answer": "The Governance Committee is responsible for monitoring and assessing risks across the Group, specifically focusing on corporate governance responsibilities, risk management, and overseeing the Group's internal control systems. It functions to ensure there is specific focus on risk review and risk management.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2022_15.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_72.png-1",
+    "query": "In the 2023 Form 10-K document of SRCE, what types of security or guarantees are typically required for loans in the construction equipment sector?",
+    "answer": "Loans in the construction equipment sector generally include personal guarantees and are reliant on investments from both public and private sectors.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_72.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_106.png-1",
+    "query": "In Ambac Financial Group, INC. and Subsidiaries Consolidated Financial Statements, what is the range of discount rates used at December 31, 2021, for the fair value calculation of financial guarantees?",
+    "answer": "The range of discount rates used at December 31, 2021, is between 2.2% and 4.1%.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_106.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2021_70.png-1",
+    "query": "According to SRCE 2021 Form 10-K, with respect to Derivative Financial Instruments, what is the impact on earnings if a derivative instrument is not effective as a hedge?",
+    "answer": "If a derivative instrument is not effective as a hedge, hedge accounting is discontinued, and the adjustment to fair value of the derivative instrument is recorded in earnings.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_SRCE_2021_70.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_69.png-1",
+    "query": "In the Directors' report of the Howden Joinery Group PLC\u2019s Annual Report & Accounts 2020, what are the new locations where the statement on political donations and research & development is found?",
+    "answer": "The statement on political donations and research & development has been moved to the sections outlined in the document, specifically cross-referenced.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2020_69.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_69.png-5",
+    "query": "How does the Howden Joinery Group PLC integrate the stakeholders' views in their governance practices according to the Directors\u2019 report?",
+    "answer": "The Group integrates stakeholders' views through formal stakeholder engagement processes with suppliers, communities, customers, and other relevant parties, ensuring compliance with relevant governance codes and principles.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2020_69.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_61.png-1",
+    "query": "According to SRCE 2023 Form 10-K, what are the main accounting policies highlighted in the document for 1st Source Corporation?",
+    "answer": "The main accounting policies highlighted include Basis of Presentation, Use of Estimates in the Preparation of Financial Statements, Business Combinations, Cash Flows, and Securities.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_61.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_61.png-3",
+    "query": "According to SRCE 2023 Form 10-K, what role does management's assessment play in recognizing credit losses for available-for-sale securities?",
+    "answer": "Management's assessment is crucial in recognizing credit losses. It considers factors like amortized cost, market conditions, collateral, and issuer's financial condition to determine the likelihood of credit losses.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_61.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_26.png-1",
+    "query": "According to Craneware plc's Annual Report 2020, what is the primary purpose of Craneware Cares?",
+    "answer": "The primary purpose of Craneware Cares is to raise awareness and funds for charity in both the UK and the US through an employee committee.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2020_26.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_26.png-3",
+    "query": "How did Craneware Cares adapt its initiatives in response to the COVID-19 pandemic?",
+    "answer": "Craneware Cares responded to the pandemic by moving social event funds that could no longer be used from their donation budget to help support groups in communities particularly affected by the virus.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2020_26.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2021_29.png-1",
+    "query": "What processes did Howden Joinery implement in 2021 for identifying and assessing climate-related risks?",
+    "answer": "In 2021, Howden Joinery built the outputs of their inherent climate risk assessment into operational risk registers, worked with advisors to refine their process for assessing climate risks, and adopted a risk process to capture key climate metrics and targets.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2021_29.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_92.png-1",
+    "query": "According to Annual Report & Accounts 2022 of Howden Joinery Group Plc, what are the specified conditions regarding property leases treated as short-term leases when in the process of being renewed?",
+    "answer": "Property leases treated as short-term leases when in the process of being renewed involve conditions where a new lease may not be formally signed before the old lease ends. Although the landlord and tenant agree on renewal, there is no contractual right to renew until the new lease is signed.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2022_92.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_57.png-4",
+    "query": "In the reporting obligation section of the Craneware plc audit report 2020, what conditions are required for reporting material related to the going concern basis?",
+    "answer": "The auditors are required to report if there is anything material to add or draw attention to regarding the directors' statement about adopting the going concern basis, or if they identify any material uncertainties related to the Group\u2019s and Company\u2019s ability to continue as a going concern.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2020_57.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_52.png-1",
+    "query": "According to the Annual Report & Accounts 2022 of Howden Joinery Group Plc, with respect to the Corporate governance report, what responsibilities has the board established to ensure the independence and effectiveness of internal external audit functions and the integrity of financial and narrative statements?",
+    "answer": "The board has established formal and transparent policies and procedures to ensure the independence and effectiveness of the internal and external audit functions. They monitor the integrity of financial statements of the company and any public announcements related to financial performance.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2022_52.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2021_42.png-1",
+    "query": "According to the Annual Report 2021 of Craneware plc, with respect to compliance Statement, which specific provisions of the UK Corporate Governance Code 2018 has the Board found to be disproportionate or not relevant?",
+    "answer": "The Board identified Provision 17, which concerns the establishment of a separate nomination committee, and Provision 36, regarding the development of a formal policy for post-employment shareholding requirements, as disproportionate or not relevant.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2021_42.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2021_42.png-3",
+    "query": "According to the Annual Report 2021 of Craneware plc, with respect to Board of Directors, who are the key individuals making up the board following Ronald Verni's departure at the end of the AGM in November 2020?",
+    "answer": "Following Ronald Verni's departure, the key individuals on the Board include Chairman William Whitehorn, Executive Directors Keith Neilson (Chief Executive Officer) and Craig Preston (Chief Financial Officer), and four non-executive Directors considered to be independent by the Board: Colleen Blye (Senior Independent Director), Russ Rudisha, Alistair Nevin, and Paul Wood.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2021_42.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_119.png-1",
+    "query": "According to the Annual Report 2020 of Craneware plc, what are the regulatory restrictions imposed on Ambac UK's ability to distribute dividends?",
+    "answer": "Ambac UK is prohibited from declaring a dividend to its shareholders unless it has 'profits available for distribution.' The PRA and FCA require a 'non-objection' for any distributions, further restricting it by the indenture for Tier 2 Notes and specific agreements.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_119.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_70.png-2",
+    "query": "According to Ambac Financial Group, Inc.'s 2020 FORM 10-K, what accounting standards have been issued but are not yet adopted by Ambac as mentioned in the document?",
+    "answer": "The not yet adopted accounting standards include Convertible Instruments and Contracts in an Entity\u2019s Own Equity and Simplifying Income Tax Accounting.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_70.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_49.png-1",
+    "query": "According to Craneware plc's Annual Report and Financial Statements 2023, what actions have been taken by the Board in terms of strengthening engineering leadership?",
+    "answer": "The Board appointed Abhilesh Gandhi as the Group Chief Technology Officer (CTO) to strengthen engineering leadership.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2023_49.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2021_27.png-1",
+    "query": "How did Howden Joinery Group achieve zero waste to landfill in 2020 and what challenges are associated with maintaining this status?",
+    "answer": "In 2020, Howden Joinery Group achieved zero waste to landfill in manufacturing and distribution by focusing on reducing waste through recycling and reusing strategies, such as the Waste Hierarchy. Challenges include achieving 98% waste avoidance and finding solutions for waste management to continue maintaining this status.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2021_27.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_71.png-1",
+    "query": "According to SRCE 2023 Form 10-K, what criteria does the company use to assign credit quality grades to loans and leases as mentioned in the text?",
+    "answer": "Loans and leases, except residential real estate and home equity loans and consumer loans, are assigned credit quality grades on a scale from 1 to 12, with grade 1 representing superior credit quality. The assignment is based on extensions of credit that exhibit potential problems or well-defined weaknesses primarily based on the degree of risk and the likelihood of orderly repayment, and their effect on the Company's safety and soundness.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_71.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_31.png-1",
+    "query": "Based on the 'Sustainable supply chain' section covering the 2020 highlights of Howden Joinery Group, how many cubic meters of sustainably sourced chipboard and MDF were used in 2020?",
+    "answer": "Howden Joinery Group used 220,000 cubic meters of chipboard and 49,000 cubic meters of MDF in 2020.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2020_31.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_31.png-6",
+    "query": "According to Annual Report & Accounts 2020 of Howden Joinery Group Plc, what was the initiative 'UK depot waste backhaul' intended to achieve, and what progress had been made as of 2020?",
+    "answer": "The results from 2020 indicate that Howden Joinery Group successfully inaugurated the 'UK depot waste backhaul' initiative, with projects targeting a notable 30% decrease in waste-to-landfill through the efficient return of waste using their existing systems.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2020_31.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_110.png-1",
+    "query": "Accoring to Ambac Financial Group, Inc 2023 Form 10-K, what are the legal requirements for regulated insurance companies regarding financial statements according to the document?",
+    "answer": "Regulated insurance companies are required to file quarterly and annual statutory financial statements in each jurisdiction in which they are licensed.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_110.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_56.png-1",
+    "query": "According to Annual Report & Accounts 2022 of Howden Joinery Group Plc, what were the responsibilities assigned to Stuart Livingstone as the new Trade Director as mentioned in the report?",
+    "answer": "Stuart Livingstone was appointed as Trade Director and will take over key parts of Andy Witts' role. He will be responsible for the day-to-day running of the depot\u2019s trade.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2022_56.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_57.png-2",
+    "query": "How has Craneware plc shown its commitment to social responsibility and environmental policy in its annual report?",
+    "answer": "Crane Group has demonstrated its commitment by adhering to the guidelines of the Environmental, Social, and Governance Statement. The Group promotes sustainable business operations and actively works on minimizing environmental impact, with a detailed report scheduled under SECR regulations for the year ending 30 June 2022 found on page 46.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2022_57.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_55.png-1",
+    "query": "According to Ambac Financial Group's 2021 Form 10-K, what are the primary reasons for the decrease in losses and loss expenses for the year ended December 31, 2021?",
+    "answer": "The decrease in losses and loss expenses for 2021 was mainly due to favorable loss development in domestic public finance, particularly related to Puerto Rico, and structured finance, primarily related to improved credit in RMBS, partially offset by the negative impact of discount rates.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_55.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_100.png-1",
+    "query": "According to Ambac Financial Group, Inc's 2023 Form 10-K, what financial instruments are primarily used by Ambac for managing interest rate risk?",
+    "answer": "Ambac primarily uses interest rate swaps and exchange traded futures contracts for managing interest rate risk.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_100.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_66.png-1",
+    "query": "In SRCE's 2023 Form 10-K, how did the company determine that goodwill was not impaired during the fourth quarter of 2021 and 2022?",
+    "answer": "The company performed impairment analyses in each quarter of 2021 and 2022, and management determined that the conditions no longer represented a triggering event requiring quarterly analyses. This led to the conclusion that goodwill was not impaired.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_66.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2021_36.png-3",
+    "query": "According to the Annual Report and Accounts 2021 of Howden Joinery Group Plc, what are the three scenarios outlined in the assessment of viability, and how do they differ in terms of revenue growth and cash flow forecasts?",
+    "answer": "1. Base Case: Assumes increases in sales and profits, supporting strategic priority areas. 2. Severe but Plausible Downturn: Assumes decline in sales and profits initially, with gradual recovery over three years. 3. Reverse Stress Test: Assumes slow recovery with less confident outcomes, investing only within existing cash resources.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2021_36.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2021_26.png-1",
+    "query": "According to SRCE's 2021 Form 10-K, what specific risks are associated with fluctuations in interest rates, and how might these affect the company's profitability and asset value?",
+    "answer": "The document states that fluctuations in interest rates could reduce profitability and affect asset value by causing changes in net interest spread, asset quality, origination volume, and overall profitability. Market interest rates affect loan and lease volumes, deposit costs, and the relationships of various interest rates to each other, potentially leading to imbalances.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_SRCE_2021_26.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2021_26.png-3",
+    "query": "According to SRCE's 2021 Form 10-K, what dollar amount of loans directly or indirectly influenced by LIBOR existed as of December 31, 2021, and what potential challenges does the transition away from LIBOR present?",
+    "answer": "As of December 31, 2021, the document indicates approximately $1.1 billion of loans and other financial instruments are influenced by LIBOR. The LIBOR transition challenges include potential adversarial impacts on financial markets, increased litigation risks, regulatory scrutiny, and the selection of appropriate alternative benchmarks that suit the company's needs.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_SRCE_2021_26.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_30.png-1",
+    "query": "In the Ambac Financial Group 2020 FORM 10-K document, what are the potential reasons identified that could lead to lower-than-expected recoveries in securitizations where AAC is involved as an insurer?",
+    "answer": "The potential reasons for lower-than-expected recoveries in securitizations where AAC is involved as an insurer include adverse developments with respect to variables that negatively impact AAC's financial condition, such as changes in estimates of RMBS litigation recoveries and the performance of the assets backing the obligations that AAC insures.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_30.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_30.png-3",
+    "query": "Within the Ambac Financial Group 2020 FORM 10-K, what does the section on 'Revenues and cash flow' imply about the future potential challenges the company might face?",
+    "answer": "The section suggests that a decline in the realization of installment premiums could adversely affect revenues and cash flow. This is because a significant portion of Ambac's revenue is derived from installment premiums, which could fluctuate due to various factors.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_30.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_139.png-1",
+    "query": "Based on the 'Notes to Consolidated Financial Statements' section of the AMBAC Financial Group's 2021 Form 10-K, what is the company's involvement in legal proceedings?",
+    "answer": "AMBAC Financial Group is involved in various routine legal proceedings, including litigation with present or former employees and litigation arising from corporate governance issues. These legal actions are routine and incidental to the conduct of its business.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_139.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_139.png-3",
+    "query": "What information is presented about the 'Student Loans Exposure' related to CFPB in the Consolidated Financial Statements of 2021 Form 10-K?",
+    "answer": "In the AMBAC Financial Group's 2021 Form 10-K, under 'Student Loans Exposure', a case was filed on September 18, 2017, by CFPB v. National Collegiate Master Student Loan Trust regarding alleged improprieties and deficiencies in servicing practices.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_139.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_21.png-1",
+    "query": "According to Craneware plc's Annual Report and Financial Statements 2022, what are the main issues faced by the healthcare organisations in the 'Complex Market Dynamics' section?",
+    "answer": "The main issues include the post-COVID-19 environment, staffing shortages, inflation, Russia's invasion of Ukraine, supply chain issues, increased healthcare-related legislation, and pressure for consumerisation.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2022_21.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_64.png-3",
+    "query": "What policies does Craneware plc have regarding employment of disabled persons and how are these executed?",
+    "answer": "Craneware plc ensures that applications for employment by disabled persons are fully considered, and training, career development, and promotion of a disabled person should be identical to that of a person who does not suffer from a disability.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2023_64.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2021_31.png-1",
+    "query": "In the Social Responsibility and Sustainability Statement of Craneware's Annual Report 2021, what key components are included in Craneware's Business Ethics Policy?",
+    "answer": "Craneware's Business Ethics Policy mandates a mandatory policy for all employees and any contractors or consultants and explains the process for reporting ethics violations. It also ensures that no form of human trafficking or slavery is permitted in their business or supply chain.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2021_31.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2021_31.png-3",
+    "query": "In the Annual Report 2021, how does Craneware's Whistleblowing Policy contribute to their corporate governance governance measures?",
+    "answer": "The Whistleblowing Policy allows employees and contractors to anonymously raise concerns regarding financial reporting or other matters. Craneware's Board of Directors is responsible for reviewing these arrangements and addressing any arising reports.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2021_31.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2021_45.png-1",
+    "query": "In the Howden Joinery Group's corporate governance report, what is the primary method used for engaging with trade customers according to the text?",
+    "answer": "The primary method of engaging with trade customers is through conversations at the local depot.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2021_45.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_42.png-1",
+    "query": "In the Howden Joinery Group's corporate governance report, what were the three main areas of focus outlined in 'The Board's response' to address the challenges posed by COVID-19?",
+    "answer": "1. Keeping employees and customers safe. 2. Prudent cash management and preservation, and viability. 3. Consideration of strategic opportunities for the future, only once the first two had been established.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "LSE_HWDN_2020_42.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2021_49.png-1",
+    "query": "According to the Corporate Governance Report from the Annual Report 2021 of Craneware, what criteria must be met for external auditors to be appointed to provide non-audit services?",
+    "answer": "The external auditors must not audit their own work, make management decisions for the Group, create a conflict of interest, or find themselves in the role of an advocate for the Group.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "AIM_CRW_2021_49.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_104.png-1",
+    "query": "Regarding Ambac Financial Group's valuation techniques for fixed maturity securities, what are the different levels of fair value hierarchy mentioned in the document?",
+    "answer": "The document mentions three levels in the fair value hierarchy for fixed maturity securities: Level 2 and Level 3. Level 2 securities have fair values based on market correlations or readily observable data, using various valuation models. Level 3 securities are those with significant unobservable inputs.",
+    "category": "Text Inference",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_104.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_multipage_71-80.png-4",
+    "query": "According to Ambac Financial Group, Inc.'s annual report in 2021, what methods did the auditors use to ensure the effectiveness of internal controls related to loss reserves estimation? ",
+    "answer": "To ensure the effectiveness of internal controls related to loss reserves estimation, the auditors evaluated the design and tested the operating effectiveness of certain internal controls. They also inquired of internal and external legal counsel and read letters received directly from the Company\u2019s internal and external legal counsel. Furthermore, they involved credit risk professionals, involved forensics professionals, and involved valuation professionals",
+    "category": "Table-MultiPage",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_73.png",
+      "NASDAQ_AMBC_2021_74.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2022_multipage_21-30.png-3",
+    "query": "According to SRCE's 2022 annual report, how does the Dodd-Frank Act impact various aspects of financial institutions, and what are the specific implications for the company's operational costs and ongoing compliance efforts?",
+    "answer": "The Dodd-Frank Act impacts financial institutions by altering regulations, affecting all sizes of institutions, and imposing higher capital requirements. It establishes the CFPB within the Federal Reserve and transfers consumer protection responsibilities to it. The company has faced increased operational costs due to compliance and expects these costs to continue.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "NASDAQ_SRCE_2022_22.png",
+      "NASDAQ_SRCE_2022_23.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2023_multipage_31-40.png-2",
+    "query": "What does the strategy outlined by the Task Force on Climate-Related Financial Disclosures (TCFD) in the 2023 Annual Report of Howden Joinery Group Plc include?",
+    "answer": "In Howden Joinery Group Plc's 2023 Annual Report, the strategy concerning the Task Force on Climate-Related Financial Disclosures (TCFD) is focused on several key areas. Firstly, the company's climate risk assessment has not identified any significant short or medium-term climate-related risks. Additionally, there is an ongoing effort to engage with the supply chain to gather further data on ESG risks and opportunities. The company has also conducted physical climate risk assessments and integrated climate-related risk screening into its due diligence processes for major capital expenditures. Lastly, they have developed draft climate impact scenarios and plan to refresh their scenario analysis in 2024, while continuing to explore various decarbonization options.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "LSE_HWDN_2023_32.png",
+      "LSE_HWDN_2023_33.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_multipage_51-60.png-3",
+    "query": "Reviewing the 2023 Ambac Financial report, how did the changes in the allowance for credit losses on the premium receivable asset and the accelerated financial guarantee premiums earned due to calls and other accelerations on insured obligations contribute to the decrease in net premiums earned for the year ended December 31, 2023?",
+    "answer": "The decrease in net premiums earned for the year ended December 31, 2023, was influenced by changes to the allowance for credit losses on the premium receivable asset and the reduction in accelerated financial guarantee premiums earned due to calls and other accelerations on insured obligations. The positive impact on net premiums earned related to credit losses amounted to $1 for 2023 and $4 for 2022, indicating a decrease in the positive impact. Accelerated financial guarantee premiums earned were $0 for 2023 and $8 for 2022, showing a reduction in this type of premium.",
+    "category": "Table-MultiPage",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_51.png",
+      "NASDAQ_AMBC_2023_52.png"
+    ]
+  },
+  {
+    "query_id": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_multipage_51-60.png-3",
+    "query": "According to PDF Solutions, Inc.'s 2024 Notice of Annual Meeting & Proxy Statement, what is the total number of shares held by the company's current directors and executive officers as a group, what is their percent of the class, and how many of these shares are expected to vest within 60 days after April 19, 2024?",
+    "answer": "The total number of shares held by the company's current directors and executive officers as a group is 4,272,669. Their percent of the class is 11.13%. Out of these shares, 2,790 are expected to vest within 60 days after April 19, 2024.",
+    "category": "Table-MultiPage",
+    "gold_pages": [
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_54.png",
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_55.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_multipage_131-140.png-1",
+    "query": "In the 2021 Ambac Financial Group, Inc. 10-K report, how much did Ambac's total pre-tax income (loss) and provision for income taxes increased from 2020 to 2021?",
+    "answer": "The pre-tax income (loss) increased $442 millions, and the provision for income taxes increased $21 millions",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_131.png",
+      "NASDAQ_AMBC_2021_132.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_TSBK_2020_multipage_81-90.png-1",
+    "query": "According to Timberland Bancorp, Inc. and Subsidiary's report, what is the difference between total non-interest income and total non-interest expense for the year ended December 31, 2020?",
+    "answer": "-$16,875 thousands",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "NASDAQ_TSBK_2020_81.png",
+      "NASDAQ_TSBK_2020_82.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_multipage_121-130.png-1",
+    "query": "Based on Craneware plc Annual Report 2022, compare the net book value changes from 30 June 2021 to 30 June 2022 across both property, plant and equipment, and intangible assets for the group.",
+    "answer": "For property, plant, and equipment (Group), the net book value increased from $1,992,000 at 30 June 2021 to $2,572,000 at 30 June 2022. For intangible assets (Group), the net book value increased from $11,188,000 at 30 June 2021 to $237,646,000 at 30 June 2022.",
+    "category": "Table-MultiPage",
+    "gold_pages": [
+      "AIM_CRW_2022_121.png",
+      "AIM_CRW_2022_123.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2021_multipage_41-50.png-2",
+    "query": "In relation to the SRCE's 2021 annual form, what were the standout factors affecting automobile and light truck loan performance and rates during 2021?",
+    "answer": "During 2021, automobile and light truck loans remained strong due to customers maintaining fleet levels amidst concerns about vehicle supply in the spring. The sector saw new client relationships and strategical refinancing in step van portfolios. However, challenges were present due to high charge-off rates from previous years, leading to a slight downward adjustment in qualitative factors.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "NASDAQ_SRCE_2021_42.png",
+      "NASDAQ_SRCE_2021_43.png",
+      "NASDAQ_SRCE_2021_44.png",
+      "NASDAQ_SRCE_2021_46.png",
+      "NASDAQ_SRCE_2021_47.png",
+      "NASDAQ_SRCE_2021_48.png",
+      "NASDAQ_SRCE_2021_49.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2021_multipage_41-50.png-3",
+    "query": "Analyze how First Source Bank's overall exposure to mortgage loans was influenced by economic conditions in 2021 as detailed in SRCE's annual form in 2021.",
+    "answer": "First Source Bank's exposure to mortgage loans in 2021 was influenced by various economic conditions, including low interest rates that encouraged refinancing, and COVID-19 related fiscal stimuli like PPP loans. Additionally, challenges such as the predicted interest rate hikes and inflation posed potential risks. The allowance for loan losses was adjusted to reflect these changes, decreasing to $127.49 million, highlighting better credit quality due to government stimulus.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "NASDAQ_SRCE_2021_42.png",
+      "NASDAQ_SRCE_2021_43.png",
+      "NASDAQ_SRCE_2021_44.png",
+      "NASDAQ_SRCE_2021_45.png",
+      "NASDAQ_SRCE_2021_46.png",
+      "NASDAQ_SRCE_2021_47.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2023_multipage_51-60.png-2",
+    "query": "How does the Craneware Group engage with its various stakeholder groups like customers, employees, and community according to the 2023 Annual Report?",
+    "answer": "Craneware Group engages with customers through initiatives that enhance the customer experience and offer support services. Employee engagement is supported by a framework aligned with company values, assessed through surveys, and senior management and the Board actively consider feedback. Community engagement is conducted via the 'Craneware Cares' initiative focusing on charitable giving and volunteering.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "AIM_CRW_2023_52.png",
+      "AIM_CRW_2023_53.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2023_multipage_11-20.png-5",
+    "query": "According to SRCE's 2023 annual report, how does 1st Source Corporation address Diversity, Equity, and Inclusion according to the document?",
+    "answer": "1st Source Corporation emphasizes diversity and inclusion as central to their values, using a multidimensional approach. As of December 31, 2023, they had 1,170 colleagues and have achieved the recognition of having over 21% new diverse hires. They emphasize diversity in leadership, with 42% of the Board being women or minorities. Additionally, all new employees undergo unconscious bias training within six months.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "NASDAQ_SRCE_2023_18.png",
+      "NASDAQ_SRCE_2023_19.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2021_multipage_1-10.png-3",
+    "query": "What social responsibility efforts did 1st Source Corporation engage in during 2021?",
+    "answer": "In 2021, 1st Source Corporation engaged in a variety of social responsibility efforts. They remained focused on environmental sensitivity, encouraging initiatives such as recycling and the use of eco-friendly products. The company also emphasized financial literacy, providing education programs and courses to individuals and businesses. Furthermore, 1st Source participated in community engagement through volunteer activities aimed at combatting poverty and increasing educational opportunities, particularly for low-income students.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "NASDAQ_SRCE_2021_8.png",
+      "NASDAQ_SRCE_2021_9.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_multipage_71-80.png-3",
+    "query": "What updates were provided to the Audit Committee regarding cyber and information security and how was it addressed, according to Howden Joinery Group Plc's annual report in 2022?",
+    "answer": "Updates on cyber and information security were provided to the Audit Committee by the Head of Information Security and the Director of Infrastructure and Service Delivery during meetings in April and July. The Committee noted in September that, besides developing technical controls to mitigate the increasing risk of a cyber security incident, a revised strategy for Security Governance was implemented to ensure clear direction to the business. The company also reported no significant information security breaches during the year and no such breaches in the preceding three-year period.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "LSE_HWDN_2022_23.png",
+      "LSE_HWDN_2022_73.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AAON_2021_multipage_11-20.png-5",
+    "query": "What were the main objectives and outcomes of AAON's national sales event held in October 2021, and how did it reflect the company's strategy towards enhancing market penetration and supporting its channel partners?",
+    "answer": "AAON's national sales event in October 2021 was a significant gathering, marking the first of its kind since 2017. The company invested about $1 million to engage with its sales partners, focusing on communicating its long-term vision and supporting them more effectively. Key highlights included introducing new marketing tools, showcasing a new manufacturing facility in Texas, and unveiling a state-of-the-art showroom trailer to demonstrate AAON's equipment and technology. The event also served to introduce new products designed to enhance market penetration and support channel partners, reflecting AAON's commitment to strengthening its product offerings and partnerships.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "NASDAQ_AAON_2021_11.png",
+      "NASDAQ_AAON_2021_12.png",
+      "NASDAQ_AAON_2021_13.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_multipage_61-70.png-5",
+    "query": "According to the Craneware plc's annual report in 2020, what are the intangible assets for the company?",
+    "answer": "Goodwill, Proprietary software, Contractual customer relationships, Research and Development expenditure, Computer software.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "AIM_CRW_2020_67.png",
+      "AIM_CRW_2020_68.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2020_multipage_31-40.png-5",
+    "query": "In the annual report of Ambac Financial Group, Inc. in 2020, explain why the system security risks, data protection breaches and cyberattacks could adversely affect their business and results of operations?",
+    "answer": "Ambac Financial Group's 2020 annual report identifies system security risks, data breaches, and cyberattacks as significant threats to business operations. The company's heavy reliance on IT systems for critical functions makes it vulnerable to disruptions from unauthorized access, viruses, and cyberattacks. These threats could lead to data breaches, financial losses, regulatory actions, and damage to reputation. The costs to mitigate these issues and the potential failure of disaster recovery plans could further impact Ambac's business continuity and financial results.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "NASDAQ_AMBC_2020_32.png",
+      "NASDAQ_AMBC_2020_33.png"
+    ]
+  },
+  {
+    "query_id": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_multipage_101-110.png-5",
+    "query": "Discuss the effect of a change in control according to PDF Solutions, Inc.'s 2024 Notice of Annual Meeting and Proxy Statement.",
+    "answer": "According to PDF Solutions, Inc.'s 2024 Notice of Annual Meeting and Proxy Statement, a change in control can lead to full vesting of all outstanding and unvested awards for participants. This means they can exercise all their outstanding options and SARs, including shares that wouldn't otherwise be vested or exercisable. If an award isn't continued after a change in control, it becomes fully exercisable for 15 days from the notice, then terminates. If service is terminated without cause within 24 months post-change, the award also fully vests.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_100.png",
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_101.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_multipage_11-20.png-2",
+    "query": "How has Howden Joinery Group addressed environmental sustainability in its 2022 operations and what projections are made for future activities regarding to Howden Joinery Group Plc's Annual Report & Accounts 2022?",
+    "answer": "In 2022, Howden Joinery Group made significant strides toward environmental sustainability by achieving carbon neutral manufacturing at key sites and reducing emissions through renewable energy use. The company plans to extend these efforts by committing to reduce emissions throughout its supply chain and continuing investments in sustainable materials. ",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "LSE_HWDN_2022_12.png",
+      "LSE_HWDN_2022_13.png",
+      "LSE_HWDN_2022_20.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_multipage_31-40.png-5",
+    "query": "Summarize the challenges and external factors that could negatively impact Ambac Financial Group's future business development as documented in their annual report.",
+    "answer": "Ambac faces several challenges that threaten its growth, including heightened competition within the industry, legal and regulatory uncertainties, economic factors such as interest rate fluctuations, and internal strategic challenges such as integrating acquisitions or growth initiatives. Additionally, the company's ability to innovate and adapt to market changes, as well as their dependency on third-party technology and services, are risks that could adversely impact operations and impede business development.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_31.png",
+      "NASDAQ_AMBC_2021_32.png",
+      "NASDAQ_AMBC_2021_33.png",
+      "NASDAQ_AMBC_2021_34.png",
+      "NASDAQ_AMBC_2021_35.png",
+      "NASDAQ_AMBC_2021_36.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_ARCB_2022_multipage_41-50.png-4",
+    "query": "Please analyze the impact of economic factors on the pricing and revenue structure of ArcBest Corporation's Asset-Based segment?",
+    "answer": "ArcBest Corporation has adjusted its pricing strategies to counteract economic fluctuations affecting the Asset-Based segment. With economic cycles influencing demand variability, pricing was adapted to account for factors like freight demand, pricing surcharges, and shipment density. The segment saw significant improvements in billed revenue per hundredweight, driven by higher fuel surcharges and strategic price adjustments. Price increments in 2022 were achieved through substantial rate adjustments, yielding higher revenue metrics, while operational adaptations helped manage cost structures amid varying economic pressures.",
+    "category": "Text-MultiPage",
+    "gold_pages": []
+  },
+  {
+    "query_id": "AIM_CRW_2023_multipage_43-44.png-2",
+    "query": "What charitable activities and donations did Craneware Cares undertake to support various communities and charitable causes globally during the fiscal year ended June 30, 2023?",
+    "answer": "During the fiscal year ending June 30, 2023, Craneware Cares supported communities and charities through several initiatives: 1. Hosted a golf tournament and auction for Action for Children. 2. Participated in the Pentlands Peaks Challenge to raise charity funds. 3. Donated art kits and clothing to disadvantaged children in Edinburgh. 4. Supported elder care and animal charities through fundraisers in the US. 5. Raised over $4,500 for men's health during Movember. 6. Aided disaster relief efforts in Florida, Turkey, and Syria. 7. Donated office supplies to a US elementary school and funded student t-shirts. 8. Contributed to UK charity auctions for Cancer Research UK and The Yard. These efforts show Craneware Cares' dedication to charitable support and community needs.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "AIM_CRW_2023_43.png",
+      "AIM_CRW_2023_44.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_multipage_35-36.png-2",
+    "query": "What measures did Craneware Cares take to ensure shareholder participation and communication during the November 2022 Annual General Meeting (AGM), especially considering the impact of COVID-19?",
+    "answer": "For the November 2022 AGM, Craneware Cares aimed to hold a standard meeting open to all shareholders. Given COVID-19 uncertainties, they encouraged proxy voting and allowed shareholders to submit questions via email in advance. Responses were provided post-meeting, ensuring participation despite pandemic challenges.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "AIM_CRW_2022_35.png",
+      "AIM_CRW_2022_36.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_multipage_57-58.png-2",
+    "query": "How does the Craneware Group ensure employee engagement and well-being, and maintain an inclusive and open work environment?",
+    "answer": "The Craneware Group ensures employee engagement and well-being by providing clean, healthy, and safe working conditions, regularly reviewing policies for training, risk assessment, safe working, and accident management, establishing a Health and Safety Committee, maintaining an inclusive work environment and a culture of openness, providing equal opportunities, facilitating the development of employee skills, adopting a fair remuneration policy, and encouraging employee involvement in the Group's performance through share schemes. Additionally, the Group does not tolerate any form of harassment, prohibits discrimination based on various factors, and actively promotes its core values.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "AIM_CRW_2022_57.png",
+      "AIM_CRW_2022_58.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2022_multipage_69-70.png-2",
+    "query": "What were the main responsibilities and activities of Craneware's Audit Committee in 2022?",
+    "answer": "In 2022, Craneware's Audit Committee was responsible for reviewing and monitoring interim and annual reports, ensuring the integrity of the Annual Report and Financial Statements, tracking developments in accounting and reporting requirements, evaluating matters of accounting significance, estimation, and judgment, considering disclosure matters, assessing the systems of internal control and their effectiveness, reviewing the external auditors' plans and independence, auditing fees, formal engagement terms, tax compliance services, and the Committee's effectiveness.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "AIM_CRW_2022_69.png",
+      "AIM_CRW_2022_70.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2021_multipage_64-65.png-2",
+    "query": "What key measures has Craneware Group taken to identify and assess the risks of financial statement fraud?",
+    "answer": "Craneware Group has taken the following five key measures to identify and assess the risks of financial statement fraud: 1. Inquiries of management regarding known or suspected instances of non-compliance with laws and regulations, claims and litigation, and instances of fraud. 2. Understanding of management's controls designed to prevent and deter irregularities. 3. Review of board minutes. 4. Challenging management on assumptions and judgments made in their significant accounting estimates. 5. Identifying and testing journal entries, including those with unexpected account combinations impacting revenue, and those with expected words contained within the description.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "AIM_CRW_2021_64.png",
+      "AIM_CRW_2021_65.png"
+    ]
+  },
+  {
+    "query_id": "AIM_CRW_2020_multipage_48-49.png-2",
+    "query": "How does Craneware Group design its executive directors' remuneration package to ensure they are motivated to achieve the company's objectives?",
+    "answer": "Craneware Group's remuneration package for executive directors includes the following five key points:1. Basic Salary: Reviewed annually or when there is a change in an individual's position or responsibilities, and typically paid as a fixed cash sum monthly. 2. Pension Entitlement: The company operates an open enrollment pension scheme for all UK employees, including executive directors, matching employee contributions up to 4% of the basic salary. Additionally, a fixed sum is paid to a personal pension plan on behalf of the Chief Executive Officer. 3. Benefits in Kind: Executive directors are entitled to private medical insurance, life insurance, and permanent health insurance. 4. Annual Performance-Related Bonus: Based on targets set by the Committee, executive directors are eligible to earn a cash bonus (non-pensionable) reflecting challenging financial performance in the current year and supporting future growth of the Group. 5. Share Options and LTIP Awards: Historically, the company has operated employee share plans, and at the discretion of the Committee, executive directors and other employees (including senior management) could be granted share-based awards.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "AIM_CRW_2020_48.png",
+      "AIM_CRW_2020_49.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_multipage_23-24.png-1",
+    "query": "According to Ambac Financial Group, Inc' 2023 Form 10-K\uff0cwhat are the potential factors that could cause significant price declines in AFG's common stock?",
+    "answer": "The potential factors include adverse developments in financial condition or results, changes in actual or perceived risk within the insured portfolio, changes in regulatory status, market perceptions of success, impact of strategic transactions, adverse industry and economic conditions, and litigation outcomes of other participants in the industry.",
+    "category": "Table-MultiPage",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_23.png",
+      "NASDAQ_AMBC_2023_24.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_multipage_51-52.png-1",
+    "query": "According to Ambac Financial Group, Inc' 2023 Form 10-K\uff0cwhat factors affected the net premiums earned in 2023 and 2022?",
+    "answer": "The net premiums earned in 2023 and 2022 were affected by the following factors: 1. The organic and active runoff of the financial guarantee insured portfolio, which led to a reduction in current and future normal net premiums earned. 2. Changes to the allowance for credit losses on the premium receivable asset. 3. Accelerated financial guarantee premiums earned as a result of calls and other accelerations on insured obligations, largely due to active de-risking of the insured portfolio.",
+    "category": "Text-MultiPage",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_51.png",
+      "NASDAQ_AMBC_2023_52.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_multipage_92-93.png-1",
+    "query": "According to Ambac Financial Group, Inc' 2023 Form 10-K\uff0cduring the years 2021 to 2023, which year had the highest Net premiums earned under Legacy Financial Guarantee Insurance?",
+    "answer": "During the years 2021 to 2023, the highest net premiums earned by Legacy Financial Guarantee Insurance were in 2021, amounting to 46 million US dollars.",
+    "category": "Table-MultiPage",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_92.png",
+      "NASDAQ_AMBC_2023_93.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_multipage_92-93.png-2",
+    "query": "According to Ambac Financial Group, Inc' 2023 Form 10-K\uff0cwhat were the consolidated net incomes (loss) of AMBAC Financial Group, Inc. and its subsidiaries from 2021 to 2023?",
+    "answer": "According to the provided financial statements, the consolidated net incomes of AMBAC Financial Group, Inc. and its subsidiaries were as follows: In 2021: Net loss of $16 million; In 2022: Net income of $522 million; In 2023: Net income of $5 million.",
+    "category": "Table-MultiPage",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_92.png",
+      "NASDAQ_AMBC_2023_93.png"
+    ]
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_multipage_101-102.png-2",
+    "query": "According to Ambac Financial Group, Inc' 2023 Form 10-K\uff0chow did the total value of Level-3 Financial Assets and Liabilities change for AMBAC Financial Group, Inc. and its subsidiaries for each end of period from 2021 to 2023?",
+    "answer": "The total value of Level-3 Financial Assets and Liabilities for AMBAC Financial Group, Inc. and its subsidiaries at the end of each period from 2021 to 2023 changed as follows: At the end of December 31, 2021, the total value was $6,199 million; At the end of December 31, 2022, the total value was $3,762 million; At the end of December 31, 2023, the total value was $3,848 million. This shows a decrease in the total value from 2021 to 2022, followed by a slight increase from 2022 to 2023.",
+    "category": "Table-MultiPage",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_101.png",
+      "NASDAQ_AMBC_2023_102.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2020_58.png-1",
+    "query": "According to Howden Joinery Group Plc Annual Report & Accounts 2020, what trend is observable in the CEO single figure payout from 2011 to 2020?",
+    "answer": "The CEO single figure payout shows a general decline over the period, with some fluctuations. It peaks around 2014 and 2015, then decreases significantly towards 2019 and 2020.",
+    "category": "Chart-Time Sensitive",
+    "gold_pages": [
+      "LSE_HWDN_2020_58.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2021_17.png-3",
+    "query": "According to Howden Joinery Group Plc Annual Report & Accounts 2021, what is the trend of depot openings in the UK and France from 2017 to 2021?",
+    "answer": "There's a consistent increase in depot openings from 2017 to 2021, with a particularly significant increase in 2021.",
+    "category": "Chart-Time Sensitive",
+    "gold_pages": [
+      "LSE_HWDN_2021_17.png"
+    ]
+  },
+  {
+    "query_id": "LSE_HWDN_2022_34.png-3",
+    "query": "According to Howden Joinery Group Plc / Annual Report & Accounts 2022, what trend does the reportable injuries per 100k employees for HSE all-industry rate show over the years from 2018 to 2022?",
+    "answer": "It shows a declining trend in the reportable injury rates per 100k employees from 2018 to 2022.",
+    "category": "Chart-Time Sensitive",
+    "gold_pages": [
+      "LSE_HWDN_2022_34.png"
+    ]
+  }
+]

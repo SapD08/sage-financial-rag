@@ -4,9 +4,23 @@ models/
 data/
 chroma_db/
 cache/
-datasets/
 __pycache__/
 *.pyc
 .DS_Store
 *.tar.gz
 results_test.json
+
+# datasets/ is ignored by default (full FinRAGBench-V corpus is large:
+# 51,219 pages / 1,105 docs) — only the small eval-support files used by
+# this project's 18-doc subset are tracked.
+datasets/*
+!datasets/finragbench/
+datasets/finragbench/*
+!datasets/finragbench/queries/
+datasets/finragbench/queries/*
+!datasets/finragbench/queries/queries_en.json
+!datasets/finragbench/qrels/
+datasets/finragbench/qrels/*
+!datasets/finragbench/qrels/qrels_en.tsv
+!datasets/finragbench/valid_questions.json
+!datasets/finragbench/selected_docs.json
