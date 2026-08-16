@@ -1,0 +1,82 @@
+
+===========================================================================
+EVALUATION RESULTS SUMMARY
+===========================================================================
+
+vanilla_rag:
+  Precision@5:      0.085
+  Recall@5:         0.390
+  MRR:              0.227
+  Exact Match:      0.125
+  F1 Score:         0.269
+  Faithfulness:     0.671
+  Answer Relevancy: 0.816
+  Avg Latency:      1.68s
+  Questions:        232
+
+graph_rag:
+  Precision@5:      0.101
+  Recall@5:         0.457
+  MRR:              0.263
+  Exact Match:      0.134
+  F1 Score:         0.264
+  Faithfulness:     0.728
+  Answer Relevancy: 0.952
+  Avg Latency:      5.69s
+  Questions:        232
+
+hippo_rag:
+  Precision@5:      0.103
+  Recall@5:         0.466
+  MRR:              0.269
+  Exact Match:      0.143
+  F1 Score:         0.271
+  Faithfulness:     0.745
+  Answer Relevancy: 0.947
+  Avg Latency:      6.65s
+  Questions:        232
+
+sage:
+  Precision@5:      0.099
+  Recall@5:         0.446
+  MRR:              0.377
+  Exact Match:      0.170
+  F1 Score:         0.297
+  Faithfulness:     0.702
+  Answer Relevancy: 0.907
+  Avg Latency:      26.58s
+  Questions:        232
+
+===========================================================================
+BY CATEGORY (Precision@5)
+===========================================================================
+Category                           vanilla_rag    graph_rag      hippo_rag      sage           
+-----------------------------------------------------------------------------------------------
+Chart-Information Extraction       0.109          0.109          0.145          0.091          
+Chart-Time Sensitive               0.000          0.067          0.067          0.067          
+Table-Compare and Sort             0.080          0.083          0.087          0.083          
+Table-MultiPage                    0.100          0.100          0.100          0.075          
+Table-Numerical Calculation        0.108          0.115          0.115          0.112          
+Text Inference                     0.070          0.095          0.092          0.095          
+Text-MultiPage                     0.092          0.133          0.142          0.142          
+
+===========================================================================
+BY CATEGORY (F1 Score — short answer categories only)
+===========================================================================
+Category                           vanilla_rag    graph_rag      hippo_rag      sage           
+-----------------------------------------------------------------------------------------------
+Table-Compare and Sort             0.289          0.260          0.297          0.352          
+Table-Numerical Calculation        0.246          0.269          0.242          0.233          
+
+===========================================================================
+BY CATEGORY (Faithfulness)
+===========================================================================
+Category                           vanilla_rag    graph_rag      hippo_rag      sage           
+-----------------------------------------------------------------------------------------------
+Chart-Information Extraction       0.536          0.618          0.745          0.355          
+Chart-Time Sensitive               0.667          0.967          1.000          0.800          
+Table-Compare and Sort             0.510          0.617          0.693          0.620          
+Table-MultiPage                    0.637          0.688          0.688          0.637          
+Table-Numerical Calculation        0.585          0.583          0.544          0.512          
+Text Inference                     0.839          0.882          0.874          0.918          
+Text-MultiPage                     0.817          0.875          0.900          0.821          

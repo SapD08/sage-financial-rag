@@ -1,0 +1,28 @@
+# config.py
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+# ── Credentials (loaded from .env) ──────────────────────────────────────────
+GROQ_API_KEY    = os.getenv("GROQ_API_KEY")
+OPENAI_API_KEY  = os.getenv("OPENAI_API_KEY")
+
+NEO4J_URI      = os.getenv("NEO4J_URI")
+NEO4J_USER     = os.getenv("NEO4J_USER")
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
+
+# ── Non-sensitive constants ──────────────────────────────────────────────────
+GROQ_MODEL = "llama-3.3-70b-versatile"
+
+EMBED_MODEL = "BAAI/bge-large-en-v1.5"
+
+OPENAI_EXTRACTION_MODEL = "gpt-4o-mini"
+OPENAI_MINI_MODEL = "gpt-4o-mini"
+
+CHUNK_SIZE= 400
+CHUNK_OVERLAP= 50
+TOP_K= 5
+
+SUPPORT_THRESHOLD= 0.6
+MAX_AGENT_ITERATIONS =4

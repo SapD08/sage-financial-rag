@@ -1,0 +1,347 @@
+[
+  {
+    "query_id": "NASDAQ_AMBC_2021_multipage_71-80.png-4",
+    "query": "According to Ambac Financial Group, Inc.'s annual report in 2021, what methods did the auditors use to ensure the effectiveness of internal controls related to loss reserves estimation? ",
+    "category": "Table-MultiPage",
+    "config": "vanilla_rag",
+    "answer": "The provided context does not contain any information regarding the methods used by auditors to ensure the effectiveness of internal controls related to loss reserves estimation for Ambac Financial Group, Inc.",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_73.png",
+      "NASDAQ_AMBC_2021_74.png"
+    ],
+    "retrieved_ids": [
+      "NASDAQ_AMBC_2021_68.png",
+      "NASDAQ_AMBC_2020_44.png",
+      "NASDAQ_AMBC_2020_74.png",
+      "NASDAQ_AMBC_2021_66.png",
+      "NASDAQ_SRCE_2021_80.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0,
+    "latency": 2.878
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2022_multipage_21-30.png-3",
+    "query": "According to SRCE's 2022 annual report, how does the Dodd-Frank Act impact various aspects of financial institutions, and what are the specific implications for the company's operational costs and ongoing compliance efforts?",
+    "category": "Text-MultiPage",
+    "config": "vanilla_rag",
+    "answer": "The provided context does not contain any information regarding the Dodd-Frank Act, its impact on financial institutions, or the implications for the company's operational costs and ongoing compliance efforts. Therefore, I cannot answer the question based on the given context.",
+    "gold_pages": [
+      "NASDAQ_SRCE_2022_22.png",
+      "NASDAQ_SRCE_2022_23.png"
+    ],
+    "retrieved_ids": [
+      "NASDAQ_SRCE_2021_80.png",
+      "NASDAQ_AMBC_2021_69.png",
+      "AIM_CRW_2023_60.png",
+      "NASDAQ_SRCE_2022_81.png",
+      "NASDAQ_AMBC_2021_66.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0,
+    "latency": 2.259
+  },
+  {
+    "query_id": "LSE_HWDN_2023_multipage_31-40.png-2",
+    "query": "What does the strategy outlined by the Task Force on Climate-Related Financial Disclosures (TCFD) in the 2023 Annual Report of Howden Joinery Group Plc include?",
+    "category": "Text-MultiPage",
+    "config": "vanilla_rag",
+    "answer": "The provided context does not contain any information regarding the strategy outlined by the Task Force on Climate-Related Financial Disclosures (TCFD) in the 2023 Annual Report of Howden Joinery Group Plc.",
+    "gold_pages": [
+      "LSE_HWDN_2023_32.png",
+      "LSE_HWDN_2023_33.png"
+    ],
+    "retrieved_ids": [
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_78.png",
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_76.png",
+      "AIM_CRW_2022_86.png",
+      "AIM_CRW_2021_56.png",
+      "AIM_CRW_2020_52.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "latency": 1.236
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_multipage_51-60.png-3",
+    "query": "Reviewing the 2023 Ambac Financial report, how did the changes in the allowance for credit losses on the premium receivable asset and the accelerated financial guarantee premiums earned due to calls and other accelerations on insured obligations contribute to the decrease in net premiums earned for the year ended December 31, 2023?",
+    "category": "Table-MultiPage",
+    "config": "vanilla_rag",
+    "answer": "The context provided does not contain specific information regarding the changes in the allowance for credit losses on the premium receivable asset or the accelerated financial guarantee premiums earned due to calls and other accelerations on insured obligations for the year ended December 31, 2023. Therefore, it is not possible to determine how these factors contributed to the decrease in net premiums earned for that year based on the available data.",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_51.png",
+      "NASDAQ_AMBC_2023_52.png"
+    ],
+    "retrieved_ids": [
+      "NASDAQ_AMBC_2021_68.png",
+      "NASDAQ_AAON_2021_78.png",
+      "NASDAQ_AMBC_2023_105.png",
+      "NASDAQ_AMBC_2020_109.png",
+      "NASDAQ_AMBC_2023_65.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.9,
+    "answer_relevancy": 1.0,
+    "latency": 2.16
+  },
+  {
+    "query_id": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_multipage_51-60.png-3",
+    "query": "According to PDF Solutions, Inc.'s 2024 Notice of Annual Meeting & Proxy Statement, what is the total number of shares held by the company's current directors and executive officers as a group, what is their percent of the class, and how many of these shares are expected to vest within 60 days after April 19, 2024?",
+    "category": "Table-MultiPage",
+    "config": "vanilla_rag",
+    "answer": "The provided context does not contain any information regarding PDF Solutions, Inc.'s 2024 Notice of Annual Meeting & Proxy Statement, including the total number of shares held by the company's current directors and executive officers, their percent of the class, or how many of these shares are expected to vest within 60 days after April 19, 2024.",
+    "gold_pages": [
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_54.png",
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_55.png"
+    ],
+    "retrieved_ids": [
+      "LSE_HWDN_2021_67.png",
+      "AIM_CRW_2023_62.png",
+      "NASDAQ_SRCE_2023_100.png",
+      "NASDAQ_SRCE_2021_102.png",
+      "NASDAQ_SRCE_2022_104.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "latency": 1.595
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_multipage_71-80.png-4",
+    "query": "According to Ambac Financial Group, Inc.'s annual report in 2021, what methods did the auditors use to ensure the effectiveness of internal controls related to loss reserves estimation? ",
+    "category": "Table-MultiPage",
+    "config": "graph_rag",
+    "answer": "The knowledge graph context provided does not contain specific details about the methods used by auditors to ensure the effectiveness of internal controls related to loss reserves estimation in Ambac Financial Group, Inc.'s annual report for 2021. To obtain this information, one would typically refer to the actual annual report (FORM 10-K) or the auditor's report included within it, which would outline the auditing procedures and controls assessed.",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_73.png",
+      "NASDAQ_AMBC_2021_74.png"
+    ],
+    "retrieved_ids": [
+      "NASDAQ_AMBC_2021_68.png",
+      "NASDAQ_AMBC_2020_44.png",
+      "NASDAQ_AMBC_2020_74.png",
+      "NASDAQ_AMBC_2021_66.png",
+      "NASDAQ_SRCE_2021_80.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.9,
+    "answer_relevancy": 0.8,
+    "latency": 2.019
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2022_multipage_21-30.png-3",
+    "query": "According to SRCE's 2022 annual report, how does the Dodd-Frank Act impact various aspects of financial institutions, and what are the specific implications for the company's operational costs and ongoing compliance efforts?",
+    "category": "Text-MultiPage",
+    "config": "graph_rag",
+    "answer": "No relevant graph context found for this query.",
+    "gold_pages": [
+      "NASDAQ_SRCE_2022_22.png",
+      "NASDAQ_SRCE_2022_23.png"
+    ],
+    "retrieved_ids": [
+      "NASDAQ_SRCE_2021_80.png",
+      "NASDAQ_AMBC_2021_69.png",
+      "AIM_CRW_2023_60.png",
+      "NASDAQ_SRCE_2022_81.png",
+      "NASDAQ_AMBC_2021_66.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "latency": 0.14
+  },
+  {
+    "query_id": "LSE_HWDN_2023_multipage_31-40.png-2",
+    "query": "What does the strategy outlined by the Task Force on Climate-Related Financial Disclosures (TCFD) in the 2023 Annual Report of Howden Joinery Group Plc include?",
+    "category": "Text-MultiPage",
+    "config": "graph_rag",
+    "answer": "No relevant graph context found for this query.",
+    "gold_pages": [
+      "LSE_HWDN_2023_32.png",
+      "LSE_HWDN_2023_33.png"
+    ],
+    "retrieved_ids": [
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_78.png",
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_76.png",
+      "AIM_CRW_2022_86.png",
+      "AIM_CRW_2021_56.png",
+      "AIM_CRW_2020_52.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "latency": 0.136
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_multipage_51-60.png-3",
+    "query": "Reviewing the 2023 Ambac Financial report, how did the changes in the allowance for credit losses on the premium receivable asset and the accelerated financial guarantee premiums earned due to calls and other accelerations on insured obligations contribute to the decrease in net premiums earned for the year ended December 31, 2023?",
+    "category": "Table-MultiPage",
+    "config": "graph_rag",
+    "answer": "No relevant graph context found for this query.",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_51.png",
+      "NASDAQ_AMBC_2023_52.png"
+    ],
+    "retrieved_ids": [
+      "NASDAQ_AMBC_2021_68.png",
+      "NASDAQ_AAON_2021_78.png",
+      "NASDAQ_AMBC_2023_105.png",
+      "NASDAQ_AMBC_2020_109.png",
+      "NASDAQ_AMBC_2023_65.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "latency": 0.152
+  },
+  {
+    "query_id": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_multipage_51-60.png-3",
+    "query": "According to PDF Solutions, Inc.'s 2024 Notice of Annual Meeting & Proxy Statement, what is the total number of shares held by the company's current directors and executive officers as a group, what is their percent of the class, and how many of these shares are expected to vest within 60 days after April 19, 2024?",
+    "category": "Table-MultiPage",
+    "config": "graph_rag",
+    "answer": "The provided context does not contain specific information regarding the total number of shares held by PDF Solutions, Inc.'s current directors and executive officers as a group, their percent of the class, or the number of shares expected to vest within 60 days after April 19, 2024. To obtain this information, you would need to refer directly to the 2024 Notice of Annual Meeting & Proxy Statement for PDF Solutions, Inc.",
+    "gold_pages": [
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_54.png",
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_55.png"
+    ],
+    "retrieved_ids": [
+      "LSE_HWDN_2021_67.png",
+      "AIM_CRW_2023_62.png",
+      "NASDAQ_SRCE_2023_100.png",
+      "NASDAQ_SRCE_2021_102.png",
+      "NASDAQ_SRCE_2022_104.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.0,
+    "answer_relevancy": 1.0,
+    "latency": 28.048
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2021_multipage_71-80.png-4",
+    "query": "According to Ambac Financial Group, Inc.'s annual report in 2021, what methods did the auditors use to ensure the effectiveness of internal controls related to loss reserves estimation? ",
+    "category": "Table-MultiPage",
+    "config": "hippo_rag",
+    "answer": "No relevant nodes found via PageRank for this query.",
+    "gold_pages": [
+      "NASDAQ_AMBC_2021_73.png",
+      "NASDAQ_AMBC_2021_74.png"
+    ],
+    "retrieved_ids": [
+      "NASDAQ_AMBC_2021_68.png",
+      "NASDAQ_AMBC_2020_44.png",
+      "NASDAQ_AMBC_2020_74.png",
+      "NASDAQ_AMBC_2021_66.png",
+      "NASDAQ_SRCE_2021_80.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "latency": 0.325
+  },
+  {
+    "query_id": "NASDAQ_SRCE_2022_multipage_21-30.png-3",
+    "query": "According to SRCE's 2022 annual report, how does the Dodd-Frank Act impact various aspects of financial institutions, and what are the specific implications for the company's operational costs and ongoing compliance efforts?",
+    "category": "Text-MultiPage",
+    "config": "hippo_rag",
+    "answer": "No relevant nodes found via PageRank for this query.",
+    "gold_pages": [
+      "NASDAQ_SRCE_2022_22.png",
+      "NASDAQ_SRCE_2022_23.png"
+    ],
+    "retrieved_ids": [
+      "NASDAQ_SRCE_2021_80.png",
+      "NASDAQ_AMBC_2021_69.png",
+      "AIM_CRW_2023_60.png",
+      "NASDAQ_SRCE_2022_81.png",
+      "NASDAQ_AMBC_2021_66.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "latency": 0.135
+  },
+  {
+    "query_id": "LSE_HWDN_2023_multipage_31-40.png-2",
+    "query": "What does the strategy outlined by the Task Force on Climate-Related Financial Disclosures (TCFD) in the 2023 Annual Report of Howden Joinery Group Plc include?",
+    "category": "Text-MultiPage",
+    "config": "hippo_rag",
+    "answer": "No relevant nodes found via PageRank for this query.",
+    "gold_pages": [
+      "LSE_HWDN_2023_32.png",
+      "LSE_HWDN_2023_33.png"
+    ],
+    "retrieved_ids": [
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_78.png",
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_76.png",
+      "AIM_CRW_2022_86.png",
+      "AIM_CRW_2021_56.png",
+      "AIM_CRW_2020_52.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "latency": 0.127
+  },
+  {
+    "query_id": "NASDAQ_AMBC_2023_multipage_51-60.png-3",
+    "query": "Reviewing the 2023 Ambac Financial report, how did the changes in the allowance for credit losses on the premium receivable asset and the accelerated financial guarantee premiums earned due to calls and other accelerations on insured obligations contribute to the decrease in net premiums earned for the year ended December 31, 2023?",
+    "category": "Table-MultiPage",
+    "config": "hippo_rag",
+    "answer": "No relevant nodes found via PageRank for this query.",
+    "gold_pages": [
+      "NASDAQ_AMBC_2023_51.png",
+      "NASDAQ_AMBC_2023_52.png"
+    ],
+    "retrieved_ids": [
+      "NASDAQ_AMBC_2021_68.png",
+      "NASDAQ_AAON_2021_78.png",
+      "NASDAQ_AMBC_2023_105.png",
+      "NASDAQ_AMBC_2020_109.png",
+      "NASDAQ_AMBC_2023_65.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "latency": 0.136
+  },
+  {
+    "query_id": "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_multipage_51-60.png-3",
+    "query": "According to PDF Solutions, Inc.'s 2024 Notice of Annual Meeting & Proxy Statement, what is the total number of shares held by the company's current directors and executive officers as a group, what is their percent of the class, and how many of these shares are expected to vest within 60 days after April 19, 2024?",
+    "category": "Table-MultiPage",
+    "config": "hippo_rag",
+    "answer": "No relevant nodes found via PageRank for this query.",
+    "gold_pages": [
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_54.png",
+      "FINAL PROOF for Online Posting PDFS_2024ProxyStatement No blank pages_55.png"
+    ],
+    "retrieved_ids": [
+      "LSE_HWDN_2021_67.png",
+      "AIM_CRW_2023_62.png",
+      "NASDAQ_SRCE_2023_100.png",
+      "NASDAQ_SRCE_2021_102.png",
+      "NASDAQ_SRCE_2022_104.png"
+    ],
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "latency": 0.139
+  }
+]

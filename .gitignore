@@ -1,0 +1,12 @@
+.env
+venvv/
+models/
+data/
+chroma_db/
+cache/
+datasets/
+__pycache__/
+*.pyc
+.DS_Store
+*.tar.gz
+results_test.json
