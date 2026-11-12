@@ -1,10 +1,8 @@
-# config.py
 import os
 from dotenv import load_dotenv
 
 load_dotenv()
 
-# ── Credentials (loaded from .env) ──────────────────────────────────────────
 GROQ_API_KEY    = os.getenv("GROQ_API_KEY")
 OPENAI_API_KEY  = os.getenv("OPENAI_API_KEY")
 
@@ -12,7 +10,6 @@ NEO4J_URI      = os.getenv("NEO4J_URI")
 NEO4J_USER     = os.getenv("NEO4J_USER")
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 
-# ── Non-sensitive constants ──────────────────────────────────────────────────
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
 EMBED_MODEL = "BAAI/bge-large-en-v1.5"

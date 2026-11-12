@@ -2,7 +2,6 @@ import json
 import csv
 from collections import defaultdict
 
-# Load data
 with open("datasets/finragbench/queries/queries_en.json") as f:
     queries = json.load(f)
 
@@ -10,17 +9,15 @@ with open("datasets/finragbench/qrels/qrels_en.tsv") as f:
     reader = csv.DictReader(f, delimiter="\t")
     qrels = list(reader)
 
-# Build: doc_id → set of query_ids that reference it
 doc_to_queries = defaultdict(set)
 for row in qrels:
     corpus_id = row["corpus-id"]
     doc_id = "_".join(corpus_id.split("_")[:-1])
     doc_to_queries[doc_id].add(row["query-id"])
 
-# Build: query_id → category
 query_to_cat = {q["query-id"]: q["category"] for q in queries}
 
-# Modality scoring: count distinct modality types per doc
+# score docs by how many distinct modality types they cover
 def get_modalities(doc_id, query_ids):
     cats = [query_to_cat.get(qid, "") for qid in query_ids]
     modalities = set()
@@ -33,11 +30,10 @@ def get_modalities(doc_id, query_ids):
             modalities.add("text")
     return len(modalities)
 
-# Filter: English-only doc IDs (no Chinese characters)
+# English-only docs (skip IDs containing Chinese characters)
 def is_english(doc_id):
     return all(ord(c) < 128 for c in doc_id)
 
-# Score each document
 doc_scores = {}
 for doc_id, query_ids in doc_to_queries.items():
     if not is_english(doc_id):
@@ -52,7 +48,6 @@ for doc_id, query_ids in doc_to_queries.items():
         "query_ids": list(query_ids)
     }
 
-# Sort and pick top 25
 ranked = sorted(doc_scores.items(), key=lambda x: x[1]["score"], reverse=True)
 
 print(f"Total English documents: {len(ranked)}")
@@ -65,7 +60,7 @@ for i, (doc_id, info) in enumerate(ranked[:25], 1):
     print(f"{i:<5} {info['score']:<8} {info['questions']:<5} {info['modalities']:<5} {doc_id}")
     selected_docs.append(doc_id)
 
-# Count valid questions (all gold docs in selected set)
+# a question is valid only if all of its gold docs are in the selected set
 query_to_gold_docs = defaultdict(set)
 for row in qrels:
     corpus_id = row["corpus-id"]

@@ -4,7 +4,6 @@ import os
 import pdfplumber
 from pathlib import Path
 
-# Config
 CHUNK_SIZE = 400    # words per chunk
 CHUNK_OVERLAP = 50  # word overlap between chunks
 DATA_RAW = "data/raw"

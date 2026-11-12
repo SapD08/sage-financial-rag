@@ -2,7 +2,6 @@ import json
 import csv
 from collections import defaultdict
 
-# Load everything
 with open("datasets/finragbench/queries/queries_en.json") as f:
     queries = json.load(f)
 
@@ -15,19 +14,16 @@ with open("datasets/finragbench/selected_docs.json") as f:
 
 selected_docs = selected["selected_docs"]
 
-# Build query: gold docs mapping
 query_to_gold_docs = defaultdict(set)
 for row in qrels:
     corpus_id = row["corpus-id"]
     doc_id = "_".join(corpus_id.split("_")[:-1])
     query_to_gold_docs[row["query-id"]].add(doc_id)
 
-# Build query: gold pages mapping
 query_to_gold_pages = defaultdict(list)
 for row in qrels:
     query_to_gold_pages[row["query-id"]].append(row["corpus-id"])
 
-# Filter valid questions
 valid_questions = []
 for q in queries:
     qid = q["query-id"]
@@ -41,11 +37,9 @@ for q in queries:
             "gold_pages": query_to_gold_pages[qid]
         })
 
-# Save
 with open("datasets/finragbench/valid_questions.json", "w") as f:
     json.dump(valid_questions, f, indent=2)
 
-# Print category breakdown
 from collections import Counter
 cats = Counter(q["category"] for q in valid_questions)
 print(f"Total valid questions: {len(valid_questions)}")

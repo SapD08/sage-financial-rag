@@ -135,7 +135,6 @@ def run(query, k=5):
         all_graph_contexts.extend(contexts)
         all_related_entities.extend(related)
 
-    # Deduplicate graph contexts
     seen = set()
     unique_contexts = []
     for c in all_graph_contexts:

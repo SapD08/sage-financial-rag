@@ -80,18 +80,15 @@ def process():
 
         print(f"  [{updated+1}/{short_count}] {query[:50]}...")
 
-        # Extract short answer
         short_answer = extract_short_answer(long_answer, query)
         print(f"    Gold:      {gold_answer}")
         print(f"    Extracted: {short_answer}")
 
-        # Recompute metrics
         em = exact_match(short_answer, gold_answer)
         f1 = f1_score(short_answer, gold_answer)
 
         print(f"    EM={em:.1f} F1={f1:.3f}")
 
-        # Update result
         results[i]["short_answer"] = short_answer
         results[i]["exact_match"]  = em
         results[i]["f1"]           = f1

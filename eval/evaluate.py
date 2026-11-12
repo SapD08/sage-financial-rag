@@ -11,7 +11,6 @@ sys.path.insert(0, ".")
 from config import OPENAI_API_KEY, OPENAI_MINI_MODEL
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
-# ── Category classification ───────────────────────────────────────────────────
 SHORT_ANSWER_CATEGORIES = [
     "Table-Compare and Sort",
     "Table-Numerical Calculation",
@@ -28,7 +27,6 @@ LONG_ANSWER_CATEGORIES = [
     "Chart-Numerical Calculation",
 ]
 
-# ── Load ground truth ─────────────────────────────────────────────────────────
 def load_qrels():
     qrels = defaultdict(list)
     with open("datasets/finragbench/qrels/qrels_en.tsv") as f:
@@ -41,7 +39,6 @@ def load_questions():
     with open("datasets/finragbench/valid_questions.json") as f:
         return json.load(f)
 
-# ── Retrieval metrics ─────────────────────────────────────────────────────────
 def precision_at_k(retrieved_pages, gold_pages, k=5):
     top_k = retrieved_pages[:k]
     hits = sum(1 for p in top_k if p in gold_pages)
@@ -69,7 +66,6 @@ def chunks_to_corpus_ids(chunks):
             corpus_ids.append(f"{doc_id}_{page}.png")
     return corpus_ids
 
-# ── Generation metrics ────────────────────────────────────────────────────────
 def normalize_answer(text):
     text = text.lower().strip()
     text = re.sub(r"[^\w\s]", "", text)
@@ -151,7 +147,6 @@ Return ONLY a number between 0.0 and 1.0. Nothing else."""
         print(f"    Scoring error: {e}")
         return {"faithfulness": 0.0, "answer_relevancy": 0.0}
 
-# ── Single question evaluation ────────────────────────────────────────────────
 def evaluate_question(question, config_name, retrieve_fn, qrels):
     query       = question["query"]
     query_id    = question["query_id"]
@@ -171,7 +166,6 @@ def evaluate_question(question, config_name, retrieve_fn, qrels):
     answer        = result.get("answer", "")
     retrieved_ids = chunks_to_corpus_ids(chunks)
 
-    # Retrieval metrics — always computed
     p5  = precision_at_k(retrieved_ids, gold_pages, k=5)
     r5  = recall_at_k(retrieved_ids, gold_pages, k=5)
     mrr = mean_reciprocal_rank(retrieved_ids, gold_pages)
@@ -184,7 +178,6 @@ def evaluate_question(question, config_name, retrieve_fn, qrels):
         em = None
         f1 = None
 
-    # LLM-based metrics — always computed
     contexts = [c.get("text", "") for c in chunks]
     scores   = llm_score(query, answer, contexts)
 
@@ -207,12 +200,11 @@ def evaluate_question(question, config_name, retrieve_fn, qrels):
         "latency":          round(latency, 3),
     }
 
-# ── Main evaluation loop ──────────────────────────────────────────────────────
 def run_evaluation(configs, questions, output_file="eval/results.json",
                    max_questions=None):
     qrels = load_qrels()
 
-    # Resume support — load existing results
+    # resume from existing results if present
     if os.path.exists(output_file):
         with open(output_file) as f:
             results = json.load(f)
@@ -250,7 +242,6 @@ def run_evaluation(configs, questions, output_file="eval/results.json",
     print(f"\nSaved {len(results)} results to {output_file}")
     return results
 
-# ── Results summary ───────────────────────────────────────────────────────────
 def summarize(results_file="eval/results.json"):
     with open(results_file) as f:
         results = json.load(f)

@@ -13,7 +13,6 @@ from retrieval.graph_retriever import run as graph_run
 from retrieval.hippo_retriever import run as hippo_run
 from config import OPENAI_API_KEY, OPENAI_MINI_MODEL
 
-#Reranker 
 reranker = None
 
 def get_reranker():
@@ -25,7 +24,6 @@ def get_reranker():
         print("BGE reranker loaded.")
     return reranker
 
-#Context fusion 
 def fuse_chunks(chunk_lists):
     """Merge chunks from multiple retrievers, deduplicate by doc_id + page."""
     seen = set()
@@ -38,7 +36,6 @@ def fuse_chunks(chunk_lists):
                 fused.append(chunk)
     return fused
 
-#Reranking 
 def rerank_chunks(query, chunks, top_k=5):
     """Score all chunks against query using BGE reranker, return top_k."""
     if not chunks:
@@ -49,7 +46,6 @@ def rerank_chunks(query, chunks, top_k=5):
     scored = sorted(zip(scores, chunks), key=lambda x: x[0], reverse=True)
     return [chunk for _, chunk in scored[:top_k]]
 
-# Self-correction 
 def self_correct(query, draft_answer, context_chunks):
     """Verify each claim in draft answer against context. Flag unsupported claims."""
     from openai import OpenAI
@@ -117,7 +113,6 @@ Return ONLY a number 0.0-1.0."""
 
     return " ".join(verified), flagged_count, correction_count
 
-#Answer generation 
 def generate_answer(query, chunks):
     from openai import OpenAI
     client = OpenAI(api_key=OPENAI_API_KEY)
@@ -142,25 +137,19 @@ Answer:"""
     )
     return resp.choices[0].message.content
 
-#Main SAGE pipeline
 def run(query, k=5, use_self_correction=True):
     start = time.time()
 
-    # Step 1: Parallel retrieval
     vanilla_chunks = vanilla_retrieve(query, k=k)
     graph_chunks   = graph_run(query, k=k).get("sources", [])
     hippo_chunks   = hippo_run(query, k=k).get("sources", [])
 
-    # Step 2: Context fusion
     all_chunks = fuse_chunks([vanilla_chunks, graph_chunks, hippo_chunks])
 
-    # Step 3: Reranking with BGE reranker
     top_chunks = rerank_chunks(query, all_chunks, top_k=k)
 
-    # Step 4: Generate draft answer
     draft_answer = generate_answer(query, top_chunks)
 
-    # Step 5: Self-correction
     flagged = corrections = 0
     if use_self_correction:
         final_answer, flagged, corrections = self_correct(
@@ -179,7 +168,6 @@ def run(query, k=5, use_self_correction=True):
         "config":       "sage",
     }
 
-# ── CLI test 
 if __name__ == "__main__":
     query = "According to Howden Joinery Group Plc Annual Reports 2023, which is higher between cash at bank in 2022 and 2023?"
     print(f"Query: {query}\n")

@@ -36,7 +36,6 @@ def load_to_neo4j(entities, relationships):
             except:
                 pass
 
-# Load all cache files
 cache_files = [f for f in os.listdir(CACHE_DIR) if f.endswith(".json")]
 print(f"Loading {len(cache_files)} cached extractions...")
 
@@ -50,7 +49,6 @@ for i, filename in enumerate(cache_files):
     if (i + 1) % 500 == 0:
         print(f"  Loaded {i+1}/{len(cache_files)}")
 
-# Final counts
 with driver.session() as session:
     nodes = session.run("MATCH (n) RETURN count(n) as c").single()["c"]
     edges = session.run("MATCH ()-[r]->() RETURN count(r) as c").single()["c"]

@@ -11,7 +11,6 @@ print("\nBy config:")
 for config, count in by_config.items():
     print(f"  {config}: {count}")
 
-# Check for duplicates
 keys = [(r["query_id"], r["config"]) for r in results]
 duplicates = len(keys) - len(set(keys))
 print(f"\nDuplicates: {duplicates}")
