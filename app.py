@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-# ── Load results ──────────────────────────────────────────────────────────────
+# ── Load results
 @st.cache_data
 def load_results():
     with open("eval/results.json") as f:
@@ -52,11 +52,11 @@ st.title("SAGE — Structured Agentic Graph-Enhanced RAG with Self-Correction")
 st.markdown("""
 **Multimodal Agentic RAG for Business Intelligence: GraphRAG, HippoRAG, and Vector Retrieval with Self-Correction**  
 Dataset: FinRAGBench-V (EMNLP 2025) | 18 documents | 232 questions | 928 evaluation runs  
-IIT Kharagpur MTech Computer Science & Data Processing
+Saptarshi Das MTech Computer Science & Data Processing, IIT Kharagpur
 """)
 st.divider()
 
-# ── Navigation tabs ───────────────────────────────────────────────────────────
+# ── Navigation tabs
 tab_demo, tab_results, tab_category, tab_about = st.tabs([
     "Live Demo",
     "Benchmark Results",
@@ -64,9 +64,7 @@ tab_demo, tab_results, tab_category, tab_about = st.tabs([
     "About"
 ])
 
-# ════════════════════════════════════════════════════════════════════════════
-# TAB 1: LIVE DEMO
-# ════════════════════════════════════════════════════════════════════════════
+
 with tab_demo:
     st.markdown("### Run a Query")
     st.markdown("Select configs, enter a question, and compare responses side by side.")
@@ -173,9 +171,7 @@ with tab_demo:
                         except Exception as e:
                             st.error(f"Error: {str(e)[:200]}")
 
-# ════════════════════════════════════════════════════════════════════════════
-# TAB 2: BENCHMARK RESULTS
-# ════════════════════════════════════════════════════════════════════════════
+
 with tab_results:
     st.markdown("### Overall Benchmark Results")
     st.markdown("232 questions x 4 configs = 928 evaluation runs. Fully automatic scoring via qrels.")
@@ -245,9 +241,7 @@ with tab_results:
     except FileNotFoundError:
         st.warning("eval/results.json not found. Run evaluation first.")
 
-# ════════════════════════════════════════════════════════════════════════════
-# TAB 3: CATEGORY ANALYSIS
-# ════════════════════════════════════════════════════════════════════════════
+
 with tab_category:
     st.markdown("### Performance by Question Category")
 
@@ -372,4 +366,4 @@ comparing four RAG architectures on real financial documents from FinRAGBench-V 
 """)
 
     st.divider()
-    st.markdown("*IIT Kharagpur MTech Computer Science & Data Processing | FinRAGBench-V (EMNLP 2025)*")
+    st.markdown("*Saptarshi Das MTech Computer Science & Data Processing, IIT Kharagpur | FinRAGBench-V (EMNLP 2025)*")
